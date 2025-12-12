@@ -1,0 +1,399 @@
+id: 178
+latlong: (47.5569963, -122.2505838)
+dbh: 20
+health: n/a / 2.5 / 3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 179
+latlong: (47.5571773, -122.2505328)
+dbh: 28
+health: n/a / 2.5 / 3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 180
+latlong: (47.5571476, -122.2505452)
+dbh: 34
+health: 1/3/3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 181
+latlong: (47.5572237, -122.2503334)
+dbh: 27
+health: 0 / 1.5 / 2.5
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 182
+latlong: (47.5572187, -122.2502572)
+dbh: 25
+health: 0/1/3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 183
+latlong: (47.5570999, -122.2506458)
+dbh: 3
+health: 1 / 1.75 / 3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 184
+latlong: (47.5570689, -122.2507018)
+dbh: 20
+health: n/a / 1.5 / 2.5
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 185
+latlong: (47.5570225, -122.2506958)
+dbh: 13
+health: n/a / 2 / 3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 186
+latlong: (47.5569205, -122.2508044)
+dbh: 6
+health: 0 / n/a / 1.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 187
+latlong: (47.5569092, -122.2508235)
+dbh: 14
+health: 1.5 / 2 / 2.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 188
+latlong: (47.5568562, -122.2508614)
+dbh: 6
+health: 1 / n/a / 1
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 189
+latlong: (47.5568562, -122.2508614)
+dbh: 6
+health: n/a / n/a / 1
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 190
+latlong: (47.5568562, -122.2508614)
+dbh: 44
+health: 3/3/3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 191
+latlong: (47.5567696, -122.2506773)
+dbh: 12
+health: n/a / 2.5 / 3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 192
+latlong: (47.5567223, -122.2510394)
+dbh: 5
+health: n/a / 2 / 2.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 193
+latlong: (47.5567370, -122.2510549)
+dbh: 5
+health: 0 / 0.5 / 1
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 194
+latlong: (47.5566702, -122.2510156)
+dbh: 16
+health: n/a / 3 / 3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 195
+latlong: (47.5567096, -122.2508242)
+dbh: 14
+health: n/a / 1.5 / 2
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 196
+latlong: (47.5567096, -122.2508242)
+dbh: 16
+health: n/a / 1.5 / 2.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 197
+latlong: (47.5567096, -122.2508242)
+dbh: 19
+health: n/a / 1.5 / 2.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 198
+latlong: (47.5566754, -122.2508544)
+dbh: 3
+health: n/a / 1.5 / 2
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+Snag, 40 ft.
+id: 199
+latlong: (47.5566207, -122.2510602)
+dbh: 41
+health: 0/0/0
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+Snag, 50 ft.
+id: 200
+latlong: (47.5565908, -122.2511256)
+dbh: 16
+health: 0/0/0 (n/a / 1 / 1.5 if counting live needles)
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+Snag, 13 ft.
+id: 201
+latlong: (47.5565616, -122.2510757)
+dbh: 7
+health: 0/0/0
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+Can’t see the top, not sure if a snag or just dying. 70-80 ft.
+id: 202
+latlong: (47.5565980, -122.2512550)
+dbh: 33
+health: 0/0/0
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 203
+latlong: (47.5565340, -122.2508604)
+dbh: 29
+health: n/a / 1.5 / 3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 204
+latlong: (47.5565340, -122.2508604)
+dbh: 20
+health: n/a / n/a / 2.25
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 205
+latlong: (47.5566361, -122.2507132)
+dbh: 28
+health: n/a / 3 / 3
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 206
+latlong: (47.5565173, -122.2506371)
+dbh: 20
+health: n/a / 1.5 / 2.5
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 207
+latlong: (47.5565173, -122.2506371)
+dbh: 5
+health: n/a / 1.5 / 2
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 208
+latlong: (47.5565155, -122.2505788)
+dbh: 34
+health: n/a / 1.5 / 1
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: Yes
+dfAssoc: No
+
+id: 209
+latlong: (47.5565211, -122.2504785)
+dbh: 26
+health: 1.5 / 2.5 / 3
+aspect: 80 degrees 
+slope: 10 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No
+
+id: 210
+latlong: (47.5565906, -122.2505577)
+dbh: 2
+health: 1 / 1.5 / 2.5
+aspect: 220 degrees 
+slope: 5 degrees
+date: 3/3
+observer: Eric
+wpDamage: 0
+canopy: No
+dfAssoc: No

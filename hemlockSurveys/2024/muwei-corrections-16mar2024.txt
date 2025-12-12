@@ -1,0 +1,47 @@
+## 89 wp 0 df yes canopy no
+## 86 wp 0 df yes canopy no
+## 87 wp 0 df yes canopy no
+## 88 wp 0 df yes canopy no
+## 90 wp 0 df no canopy yes
+## 91 wp 0 df no canopy no
+## 106 wp 0 df no canopy yes
+## 109 wp 0 df no canopy no
+
+#110 wp 0 df no canopy no
+#111 wp 0 df no canopy no
+#112 wp 0 df no canopy no
+#113 wp 0 df no canopy no
+#114 wp 0 df no canopy no
+#115 wp 0 df no canopy yes
+#116 wp 0 df no canopy no
+#117 wp 0 df no canopy no
+#118 wp 0 df no canopy yes
+#120 wp 0 df no canopy yes
+#121 wp 0 df no canopy yes
+#122 wp 0 df no canopy yes
+#123 wp 0 df no canopy no
+#124 wp 0 df no canopy yes
+#125 wp 0 df no canopy yes
+#4020 wp 0 df yes canopy no
+#4021 wp 0 df no canopy no
+#101 wp 0 df no canopy no
+
+#3031 wp 0 df no canopy yes
+#3032 wp 0 df no canopy no
+
+#3033 wp 0 df yes canopy no 
+#3036 wp 0 df no canopy yes
+#3037 wp 0 df no canopy yes
+#3039 wp 0 df no canopy yes
+#3040 wp 0 df no canopy yes
+#3041 wp 0 df no canopy no
+#4040 wp 0 df yes canopy yes
+#3023 wp 0 df no canopy no
+#3024 wp 0 df no canopy no
+#3025 wp 0 df no canopy no
+#97 wp 0 df no canopy yes
+#98 wp 3 df no canopy yes
+#100 wp 0 df no canopy yes
+#102 wp 0 df no canopy yes
+#103 wp 0 df no canopy yes
+#104 wp 1 df no canopy yes

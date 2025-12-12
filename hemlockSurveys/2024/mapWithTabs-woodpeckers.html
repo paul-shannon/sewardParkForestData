@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hemlock Survey 2024</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+  <link href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css"  rel="stylesheet">
+  <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  
+  <link rel="stylesheet" type="text/css" href="./map.css" />
+  <script type="module" src="./map-woodpeckerDamage.js"></script>
+  <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+
+  <script>
+
+  $(function() {
+    $("#tabs").tabs();
+        $('#tableId').DataTable({
+            bInfo: true,
+            sDom: '<"header">Bfrtip<"footer">',
+            buttons: ['copy', 'csv', 'excel', 'pdf'],
+            pageLength: 1000,
+            ajax: {
+                url: 'hemlocks.json',
+                dataSrc: ''
+               },
+            columns: [
+                {data: 'id'},
+                {data: 'lat'},
+                {data: 'lon'},
+                {data: 'dbh'},
+                {data: 'h1'},
+                {data: 'h2'},
+                {data: 'h3'},
+                {data: 'h'},
+                {data: 'wpDamage'},
+                {data: 'canopy'},
+                {data: 'dfAssoc'},
+                {data: 'aspect'},
+                {data: 'slope'},
+                {data: 'date'},
+                {data: 'comments'},
+                {data: 'observer'},
+            ],
+        });
+     });
+  </script>
+</head>
+<body>
+
+<div id="tabs" style="height: 900px;">
+  <ul>
+    <li><a href="#map">Map</a></li>
+    <li><a href="#tableDiv">Table</a></li>
+  </ul>
+  <div id="map">
+  </div>
+  <div id="tableDiv">
+    <table id="tableId" class="display" width="100%">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>lat</th>
+                <th>lon</th>
+                <th>dbh</th>
+                <th>h1</th>
+                <th>h2</th>
+                <th>h3</th>
+                <th>overall</th>
+                <th>wpDamage</th>
+                <th>canopy</th>
+                <th>dfAssoc</th>
+                <th>aspect</th>
+                <th>slope</th>
+                <th>date</th>
+                <th>comments</th>
+                <th>observer</th>
+            </tr>
+        </thead>
+    </table>
+</div id="mainTableDiv">
+
+</div id="tabs">
+
+<script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+      ({key: "AIzaSyDkGwPVB2OLaBmQjLQvkoLv5M1ZQU64V7A", v: "weekly"});</script>
+
+</body>
+</html>

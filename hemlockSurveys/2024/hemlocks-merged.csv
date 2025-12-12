@@ -1,0 +1,742 @@
+id,lat,lon,dbh,h1,h2,h3,aspect,slope,date,observer,wpDamage,canopy,dfAssoc,comments
+1,47.560123,-122.252269,36,NA,0,0,-1,-1,2024-01-18,muwei,5,False,False,snag; heavy woodpecker damage; yellow and brown moss up high
+2,47.560078,-122.251997,22,NA,2,3,-1,-1,2024-01-18,muwei,0,False,False,middle section has only a few good branches
+3,47.560222,-122.251542,30,NA,0,1,-1,-1,2024-01-18,muwei,2,False,False,
+4,47.560238,-122.251492,27,1,1,2,300,10,2024-01-20,muwei,1,False,False,
+5,47.560243,-122.251862,25,NA,0,0,250,15,2024-01-20,eric,4,False,False,40 foot snag; NW of trail junction; surrounded by salal; evidence of woodpeckers
+6,47.560185,-122.251651,31,NA,0,2,275,20,2024-01-20,nate,0,False,False,
+7,47.560467,-122.252022,31,NA,0,1,300,10,2024-01-20,muwei,0,False,False,
+8,47.560378,-122.252334,30,NA,0,0,NA,0,2024-01-20,muwei,0,False,False,
+9,47.560608,-122.252472,23,0,0,0,300,5,2024-01-20,muwei,0,False,False,
+10,47.559978,-122.252067,31,0,2,3,300,15,2024-01-20,muwei,0,False,False,
+11,47.559773,-122.252059,30,NA,0,0,300,12,2024-01-20,muwei,0,False,False,many small branches and cones; no needles; probably died last year
+12,47.560333,-122.251901,22,0,0,0,270,25,2024-01-23,muwei,0,False,False,8 foot snag
+13,47.560467,-122.251817,32,NA,0,NA,270,25,2024-01-23,muwei,0,False,False,30 foot snag;recently died
+14,47.560448,-122.251568,29,NA,0,1.5,NA,0,2024-01-23,paul,0,False,False,
+15,47.560488,-122.251607,36,0,0,2.5,60,15,2024-01-23,muwei,0,False,False,lower branches all died very recently
+16,47.560403,-122.251734,25,NA,NA,1.5,300,5,2024-01-23,muwei,0,False,False,
+17,47.560188,-122.251562,27,NA,0,2,300,5,2024-01-23,muwei,0,False,False,
+18,47.560375,-122.251474,13,NA,0,0,300,5,2024-01-23,muwei,0,False,False,recently fallen tree - hollow near base
+19,47.56025,-122.251192,21,NA,NA,0,300,5,2024-01-23,muwei,0,False,False,50 foot snag
+20,47.560494,-122.251414,5,0,0,0,300,10,2024-01-23,muwei,0,False,False,three small trees close together
+21,47.560498,-122.251418,5,0,0,0,300,10,2024-01-23,muwei,0,False,False,three small trees close together
+22,47.560493,-122.251419,5,NA,0,0,300,10,2024-01-23,muwei,0,False,False,three small trees close together
+23,47.560642,-122.251534,2.5,0,0,0,NA,0,2024-01-23,muwei,0,False,False,10 feet tall; pair of trees touching at base
+24,47.56064,-122.251532,1.5,0,0,3,NA,0,2024-01-23,muwei,0,False,False,7 feet tall; pair of trees touching at base
+25,47.559663,-122.252157,6,2.5,1,3,360,10,2024-01-23,muwei,0,False,False,two large healthy branches protrude 6 feet from the ground (hard to decide if that’s the bottom or the middle part) but other branches in the middle part are all dead
+26,47.559535,-122.252431,29,NA,2,3,270,10,2024-01-23,muwei,0,False,False,
+27,47.559587,-122.252481,9,NA,1,0,360,5,2024-01-23,muwei,0,False,False,only 1 living branch about 20 feet high halfway up; crown dead
+28,47.560082,-122.252524,34,0.5,1.24,2,290,5,2024-01-28,eric,0,False,False,
+29,47.559895,-122.252509,25,NA,NA,0,320,5,2024-01-28,eric,0,False,False,snag 14 feet tall
+30,47.559737,-122.252634,30,1.5,3,3,340,10,2024-01-28,eric,0,False,False,lichen and moss near the bottom; moss and needles adjacent on the same branch
+31,47.559842,-122.252709,5,0,0.5,2,340,10,2024-01-28,eric,0,False,False,top is sparse but looks healthy
+32,47.559772,-122.252986,18,0,0,0,340,10,2024-01-28,eric,0,False,False,fallen tree; root failure; very healthy branches near top but fell over
+33,47.559547,-122.253046,28,0,0.5,1,340,5,2024-01-28,eric,0,False,False,
+34,47.559607,-122.252684,9,0,0,0,340,10,2024-01-28,eric,0,False,False,four foot snag
+35,47.559563,-122.252702,11,NA,NA,0,340,10,2024-01-28,eric,0,False,False,six foot snag
+36,47.559548,-122.252695,26,NA,0,1.5,340,5,2024-01-28,eric,0,False,False,
+38,47.559439,-122.252669,16,NA,NA,0,340,5,2024-01-28,eric,0,False,False,fallen tree; no healthy branches
+39,47.55971,-122.252607,17,0,0.5,1.5,340,10,2024-01-28,eric,0,False,False,
+40,47.559832,-122.252581,26,2,0.5,3,340,5,2024-01-28,eric,0,False,False,two healthy branches near the bottom
+41,47.5598,-122.252619,30,NA,NA,0,340,5,2024-01-28,eric,0,False,False,18 foot snag
+42,47.55939,-122.252659,21,NA,NA,0,310,5,2024-01-28,eric,0,False,False,log
+43,47.559363,-122.252692,16,0,0,0.5,310,5,2024-01-28,eric,0,False,False,
+44,47.559378,-122.252752,12,1,0.5,1.75,310,5,2024-01-28,eric,0,False,False,
+45,47.55925,-122.252552,21,0,0,0,330,5,2024-01-28,tareq,3,True,False,20 foot snag
+46,47.559288,-122.252642,16,0,0,0,340,5,2024-01-28,tareq,0,False,False,
+47,47.5592455,-122.2528781,18,0,0,0,330,5,2024-02-20,muwei,1,False,False,30 ft snag
+48,47.55929,-122.252406,15,0,0,0,330,10,2024-01-28,tareq,0,True,False,
+49,47.559259,-122.252577,27,0.5,1.5,3,330,10,2024-01-28,tareq,0,True,False,
+50,47.559053,-122.252719,15,NA,0,0,32,5,2024-01-28,tareq,0,False,False,
+51,47.558815,-122.252537,15,2.5,3,3,315,10,2024-01-28,tareq,0,False,False,
+52,47.558812,-122.252441,22,1.75,2.5,3,310,15,2024-01-28,tareq,0,False,False,
+53,47.558773,-122.252066,5,0,0,3,347,5,2024-01-28,tareq,0,False,False,
+54,47.558837,-122.251984,35,1.25,1.75,3,0,5,2024-01-28,tareq,0,False,False,
+55,47.559533,-122.251811,29,0,0,2,300,15,2024-01-30,paul,0,True,False,wp 0
+56,47.559578,-122.251701,20,NA,1,3,300,10,2024-01-30,paul,0,True,False,wp 0
+57,47.559628,-122.251714,29,0,1,2,330,15,2024-01-30,paul,0,True,False,wp 0; 8 ft from 56 nearly due north; dead mole at base
+58,47.559792,-122.252301,23,NA,NA,3,320,15,2024-01-30,paul,0,False,False,looks like a lollipop
+59,47.55979,-122.252394,40,0,1,2.5,300,10,2024-01-30,paul,0,False,False,;tape is on hazelnut branch one ft southwest
+60,47.55969,-122.251916,25,0,0,0,270,10,2024-01-30,paul,5,False,False,12 ft snag; apparently long dead
+61,47.559488,-122.251839,2,0,1.5,1.5,300,5,2024-01-30, paul,0,False,False,wp 0; top healthy branch cleaved off; on ground; would have raised score
+62,47.559373,-122.251856,5,0,1,2,300,10,2024-01-30,muwei,0,False,False,
+63,47.559368,-122.251779,4,0,0,0,270,15,2024-01-30,muwei,0,False,False,
+64,47.559382,-122.251671,7,0,1,2,300,5,2024-01-30,muwei,0,False,False,
+65,47.559342,-122.251789,9,0,0,0,300,10,2024-01-30, muwei,0,False,False,thrown off from the root
+66,47.559487,-122.252597,3.5,1,2,2.5,300,10,2024-01-30,muwei,0,False,True,
+67,47.559477,-122.252587,2,2,2,1.4,300,10,2024-01-30,muwei,0,False,True,
+68,47.559452,-122.251594,4,0,2,3,300,5,2024-01-30,muwei,0,False,True,
+69,47.55945,-122.25149,5,0,0,0,300,10,2024-01-30,muwei,0,False,False,wp 0
+70,47.559405,-122.251426,2,0,0,0,300,10,2024-01-30,muwei,0,False,True,
+71,47.559043,-122.251384,5,0,0,0,300,15,2024-01-30,muwei,0,False,False,
+72,47.559983,-122.251934,1,2.5,3,3,330,20,2024-01-30,muwei,0,False,False,sapling 5 ft high
+73,47.55953,-122.25157,32,0.5,0,1.5,350,4,2024-02-03,eric,1,False,False,
+74,47.559173,-122.251279,18,1.5,2.5,3,350,5,2024-02-03,eric,0,False,False,
+75,47.559097,-122.251054,20,0,0,0,30,5,2024-02-03,eric,2,False,False,
+76,47.5588156,-122.2509811,17,0,0,0.25,340,15,2024-02-03,eric,2,False,False,
+77,47.5589267,-122.2510934,6,0,0,0,350,15,2024-02-03,eric,0,False,False,
+78,47.5589317,-122.2511134,7,NA,1.5,2.5,350,15,2024-02-03,eric,0,False,False,
+79,47.558702,-122.251267,15,2,0,3,20,0,2024-02-03,eric,0,False,False,loss of bottom branches may be from breaking into the canopy
+80,47.558688,-122.251342,6,0,2.5,3,350,15,2024-02-03,eric,0,False,False,
+81,47.558637,-122.250769,6,1,2,3,10,5,2024-02-03,eric,0,False,False,
+82,47.558712,-122.250997,5,NA,3,3,20,5,2024-02-03,eric,0,False,True,grows out of the root of a fallen log
+83,47.5587247,-122.251077,5,0,2,3,350,10,2024-02-03,eric,0,False,False,
+84,47.5588591,-122.2512436,31,0,0,0,330,5,2024-02-03,eric,3,False,False,
+85,47.555398,-122.250372,1,3,3,3,340,4,2024-02-03,paul,0,False,False,four feet tall; almost flat
+86,47.5552,-122.250252,4,1.5,2.5,3,330,5,2024-02-03,paul,0,False,True,scaly bark; extensive browning of still intact needles in middle south
+87,47.5553,-122.250282,1,1.5,3,3,330,5,2024-02-03,paul,0,False,True,as with 86 growing out of doug fir stump and with some brown needles
+88,47.555323,-122.250406,3,3,3,3,NA,0,2024-02-03,paul,0,False,True,20 foot fallen healthy intact tree used to be a nurse sapling
+89,47.555333,-122.250179,3,2.5,3,3,330,5,2024-02-03,paul,0,False,True,some HWA
+90,47.555305,-122.250079,17,2,1.25,2.75,355,5,2024-02-03,paul,0,True,False,one good sw facing branch to ground; two equal trunks from 26 feet
+91,47.555288,-122.250066,15,2.5,3,3,335,5,2024-02-03,paul,0,False,False,slight brown needles at north bottom
+92,47.555497,-122.249897,2,NA,1,3,330,20,2024-02-03,paul,0,False,False,odd shape; lowest branch largely diseased
+93,47.555372,-122.249792,4,0,1.5,3,330,10,2024-02-03,paul,0,False,False,
+94,47.555422,-122.249784,6,0,1.5,2,350,20,2024-02-04,eric,0,False,False,
+95,47.55548,-122.249816,9,0.75,0.5,0.25,350,20,2024-02-04,eric,0,False,False,
+96,47.555492,-122.249754,5,0,2.5,1.5,350,25,2024-02-04,eric,0,False,False,
+97,47.555172,-122.249507,29,NA,NA,3,20,5,2024-02-04,eric,0,True,False,
+98,47.55517,-122.249579,30,0,0,0,20,7,2024-02-04,eric,3,True,False,7 feet tall
+100,47.555138,-122.24973,30,2.5,NA,3,20,4,2024-02-04,eric,0,True,False,
+101,47.554735,-122.249494,12,2.5,3,3,90,5,2024-02-04,eric,0,False,False,
+102,47.554927,-122.24922,18,1.5,3,3,40,10,2024-02-04,eric,0,True,False,
+103,47.554932,-122.249292,32,NA,1.5,2.25,40,10,2024-02-04,eric,0,True,False,
+104,47.554948,-122.249847,20,0,0,0,40,5,2024-02-04,eric,1,True,False,55 foot snag
+105,47.554815,-122.24949,2,2,2,3,40,5,2024-02-04,eric,0,False,False,
+106,47.554903,-122.249736,36,NA,1,2.5,70,5,2024-02-04,eric,0,True,False,
+107,47.55493,-122.249762,4,0.25,1.75,2.75,60,5,2024-02-04,eric,0,False,False,
+108,47.554803,-122.249697,3,0,1,2.5,60,5,2024-02-04,eric,0,False,False,
+109,47.554855,-122.249749,3,0,0,2.5,60,5,2024-02-04,eric,0,False,False,
+110,47.55482,-122.249656,4,0.5,1.75,3,60,5,2024-02-04,eric,0,False,False,
+111,47.55483,-122.249852,3,NA,0,0,60,5,2024-02-04,eric,0,False,False,
+112,47.55504,-122.249887,6,1,3,3,60,5,2024-02-04,eric,0,False,False,
+113,47.555019,-122.249892,7,1.25,2.5,3,60,5,2024-02-04,eric,0,False,False,
+114,47.55497,-122.249937,6,1,1.5,3,69,5,2024-02-04,eric,0,False,False,
+115,47.555189,-122.249961,9,0.5,3,3,60,5,2024-02-04,eric,0,True,False,
+116,47.555218,-122.249954,3,0,0.5,2,60,5,2024-02-04,eric,0,False,False,
+117,47.55456,-122.24922,9,3,3,3,100,10,2024-02-10,eric,0,False,False,growing out of a doug-fir stump;
+
+118,47.55489,-122.24936,23,NA,NA,1.5,90,5,2024-02-10,eric,0,True,False,
+
+119,47.55491,-122.24934,22,1.5,1.75,2,90,5,2024-02-10,eric,0,False,False,
+120,47.55467,-122.24927,30,NA,NA,3,90,15,2024-02-10,eric,0,True,False,
+121,47.5546,-122.24948,28,NA,1.5,3,70,15,2024-02-10,eric,0,True,False,
+
+122,47.55476,-122.24923,14,1.5,1.5,3,80,15,2024-02-10,eric,0,True,False,
+
+123,47.55459,-122.2495,12,0,1.5,1.5,90,15,2024-02-10,eric,0,False,False,
+124,47.55467,-122.24949,33,NA,1,1.5,70,15,2024-02-10,eric,0,True,False,
+125,47.55465,-122.24947,29,NA,NA,1.25,70,10,2024-02-10,eric,0,True,False,
+
+126,47.5545395,-122.2486147,26,0,0,0,70,5,2024-02-10,eric,0,False,False,snag;
+127,47.5545195,-122.2486147,32,0,0,0,70,5,2024-02-10,eric,0,False,False,60ft snag;
+128,47.5543168,-122.2485299,22,0,0,1.25,70,5,2024-02-10,eric,0,False,False,
+1000,47.5534649,-122.248885,3,1,2,3,90,15,2024-02-10,muwei,0,False,False,
+1001,47.5535355,-122.2487502,24,NA,2.5,2.5,120,15,2024-02-10,muwei,0,True,False,grows on root of a doug fir; ivy to be removed
+1002,47.5533,-122.2481038,4,1.5,1,2,270,20,2024-02-10,muwei,0,False,False,
+1003,47.553134,-122.2480394,17,0.5,1,2.5,30,20,2024-02-10,muwei,0,False,False,
+1004,47.5532714,-122.2480793,4,0,0,0,30,15,2024-02-10,muwei,0,False,False,two trunks from same origin; base fused together
+1005,47.5533271,-122.2478697,3,0,0,0,NA,0,2024-02-10,muwei,0,False,False,
+1100,47.5526896,-122.2519574,6,0,0,0,0,5,2024-02-20,muwei,0,False,False,
+1101,47.5531334,-122.2511518,23,0,0,0,270,5,2024-02-20,muwei,3,True,False,
+2001,47.56019,-122.251801,30,NA,0,1,280,10,2024-01-20,nate,0,False,False,
+2002,47.560123,-122.251439,25,NA,1,2,295,5,2024-01-20,nate,0,False,False,
+2003,47.560077,-122.251421,28,0,0,1,300,10,2024-01-20,nate,0,False,False,woodpecker damage on trunk
+2004,47.560082,-122.251506,27,0,0,0,260,10,2024-01-20,nate,0,False,False,8 foot snag
+2005,47.559895,-122.251352,8,0,0,0,300,15,2024-01-20,nate,0,False,False,very recent fall;few needles;lots of moss;woodpecker damage
+2006,47.559777,-122.251322,7,0,0,2,300,10,2024-01-20,nate,0,False,False,
+2007,47.55982,-122.25123,9,1,1.5,2,275,5,2024-01-20,nate,0,False,False,
+2008,47.55959,-122.25143,28,0,1,3,320,10,2024-01-20,nate,0,False,False,low bottom score may be due to self-pruning after canopy breakthrough
+2009,47.5595838,-122.2512926,19,NA,1.5,3,320,10,2024-01-20,nate,0,False,False,possible self-pruing on south side
+2010,47.5595602,-122.2513868,7,0,0,0,315,5,2024-01-20,nate,0,False,False,
+2011,47.5596,-122.25137,27,NA,1,2.5,290,5,2024-01-20,nate,0,False,False,
+2012,47.5596003,-122.2514656,19,NA,0,2,270,15,2024-02-13,muwei,0,False,False,wp0;no stump;canopy yes;
+2013,47.5596829,-122.2515424,23,NA,2,3,330,15,2024-02-13,muwei,0,False,False,wp0;no stump;canopy yes
+2014,47.5598111,-122.2516882,30,0,0,0,270,10,2024-02-13,muwei,1,False,False,wp1;stump no;canopy tree
+2015,47.5599455,-122.251651,45,0,1.5,2.5,270,20,2024-02-13,muwei,0,False,False,wp0;stump no;canopy tree;broken 40 feet above the ground
+2016,47.5599012,-122.2514874,30,0,0,0,300,15,2024-02-13,muwei,4,False,False,wp4;stump no;canopy tree;40 ft snag
+2017,47.5597933,-122.2510421,3,0,0,0,300,15,2024-02-17,muwei,0,False,False,
+2018,47.55949,-122.25071,14,0,0,1.5,30,5,2024-02-17,eric,0,False,False,
+2019,47.55949,-122.25068,3.5,1,2,2,30,5,2024-02-17,eric,0,False,False,
+2020,47.55938,-122.25032,0.5,3,3,3,30,5,2024-02-17,eric,0,False,True,one of 3 young trees growing out of a log w/in 5 ft
+2021,47.55933,-122.25032,1,3,3,3,30,5,2024-02-17,eric,0,False,True,one of 3 young trees growing out of a log w/in 5 ft
+2022,47.55928,-122.25032,1,3,3,3,30,5,2024-02-17,eric,0,False,True,one of 3 young trees growing out of a log w/in 5 ft
+2023,47.55963,-122.25039,7,0,0,2,30,5,2024-02-17,eric,0,False,False,
+2024,47.55939,-122.25051,2.5,0,0,0,30,5,2024-02-17,eric,0,False,False,fallen tree
+2025,47.55937,-122.25047,8,0,0,0,30,5,2024-02-17,eric,0,False,False,knocked down two feet above ground; no healthy branched
+2026,47.55921,-122.2501,7,0,0.5,0.5,30,5,2024-02-17,eric,0,False,False,
+2027,47.559,-122.25,1.5,1,2,3,30,10,2024-02-17,eric,0,False,True,on df at sqebeqsed trail; in 5-cluster looking healthier than the numbers
+2028,47.559,-122.25002,2,1,2.5,3,30,10,2024-02-17,eric,0,False,True,on df at sqebeqsed trail; in 5-cluster looking healthier than the numbers
+2029,47.559,-122.25004,0.5,0,0,0,30,10,2024-02-17,eric,0,False,True,on df at sqebeqsed trail; in 5-cluster looking healthier than the numbers
+2030,47.559,-122.25006,1,0,0,2.5,30,10,2024-02-17,eric,0,False,True,on df at sqebeqsed trail; in 5-cluster looking healthier than the numbers
+2031,47.559,-122.25008,9.5,1,3,3,30,10,2024-02-17,eric,0,False,True,on df at sqebeqsed trail; in 5-cluster looking healthier than the numbers
+2032,47.5586301,-122.2500504,35,NA,NA,3,60,5,2024-02-17,muwei,0,True,False,
+2032,47.55843,-122.25008,3,0,0,0,30,10,2024-02-17,eric,0,False,False,growing out of a cedar stump
+2033,47.55825,-122.25027,25,0,0,0,30,10,2024-02-17,eric,5,False,False,next to 20 ft log which was its top
+3001,47.55946,-122.252027,5,2.5,3,3,320,20,2024-01-28,paul,0,False,False,minor diseased branches at bottom; north side
+3002,47.559488,-122.252336,11,0,0,0,340,15,2024-01-28,paul,0,False,False,maybe killed when 3003 fell on it
+3003,47.559492,-122.25235,27,0,0,0,312,5,2024-01-28,paul,0,False,False,base failure; log fell east; top of tree fine branchlets;no needles;lots of epiphytes
+3004,47.559902,-122.252137,23,NA,0,2,340,10,2024-01-28,paul,0,False,False,unobstructed access to sky
+3005,47.559457,-122.252069,28,NA,0,0,340,10,2024-01-28,paul,2,True,False,
+3006,47.559523,-122.251926,28,0,0,0,340,10,2024-01-28,paul,1,True,False,fine branchlets on only 1 limb at bottom
+3007,47.559635,-122.252061,36,0,0,0,340,10,2024-01-28,paul,0,False,False,
+3008,47.559232,-122.252064,20,0,0,0,340,10,2024-01-28,paul,5,True,False,extensive woodpecker damage lower third
+3009,47.55931,-122.252001,37,NA,NA,2.5,315,5,2024-02-03,paul,0,True,False,
+3010,47.559085,-122.251994,4,0,1.5,3,330,4,2024-02-03,paul,0,False,False,
+3011,47.558827,-122.251816,38,0,0,0,300,5,2024-02-03,paul,4,False,False,
+3013,47.558237,-122.252486,4.5,2.5,3,3,NA,0,2024-02-03,paul,0,False,False,10 feet northfrom 3014
+3014,47.55822,-122.252486,1.5,3,3,3,NA,0,2024-02-03,paul,0,False,False,10 feet south from 3013
+3015,47.558058,-122.252719,17,2,3,3,270,3,2024-02-03,nate,0,False,False,
+3016,47.558032,-122.252807,10,NA,3,3,250,5,2024-02-03,nate,0,False,False,
+3017,47.558005,-122.252504,5,3,3,3,230,5,2024-02-03,nate,0,False,True,growing out of cut stump
+3018,47.558332,-122.252066,22,2,1.5,3,300,5,2024-02-03,nate,0,False,False,
+3019,47.558312,-122.252066,6,NA,2,2.5,300,5,2024-02-03,nate,0,False,False,overall no illness but shaded out by neighbor
+3020,47.558412,-122.25235,8,2,3,3,270,5,2024-02-03,nate,0,False,False,candidate for needle study
+3021,47.555417,-122.249411,5,0,0,0,15,20,2024-02-03,nate,0,False,False,top of a steep decline
+3022,47.555363,-122.249354,5,0,0,0,45,15,2024-02-03,nate,0,False,False,
+3023,47.5553576,-122.2491,3,0,0,1,350,15,2024-02-03,nate,0,False,False,
+3024,47.5549427,-122.2485249,7,1,2,0,5,10,2024-02-03,nate,0,False,False,
+3025,47.5555326,-122.2491599,5,0.5,1,2,350,10,2024-02-03,nate,0,False,False,vz1 recent dead branches excep south; needles everywhere seem thin
+3026,47.5549956,-122.2486211,10,0,0,0.5,75,10,2024-02-04,nate,0,False,False,
+3027,47.5550256,-122.2486211,26,NA,1.5,3,70,5,2024-02-04,nate,0,False,False,
+3028,47.5549656,-122.2486211,30,NA,1,2,75,10,2024-02-04,nate,0,False,False,
+3029,47.55482,-122.248466,4,0,0,2,65,10,2024-02-04,nate,0,False,False,
+3030,47.5547239,-122.2485105,31,NA,1.5,3,80,5,2024-02-04,nate,0,False,False,
+3031,47.554713,-122.248721,40,NA,2,3,100,5,2024-02-04,nate,0,True,False,
+3032,47.554587,-122.248469,9,1,2,3,100,5,2024-02-04,nate,0,False,False,
+3033,47.5545754,-122.248656,3,2.5,3,3,100,5,2024-02-04,nate,0,False,True,stump
+3036,47.554862,-122.248962,21,1,2.5,2.5,110,5,2024-02-04,nate,0,True,False,
+3037,47.554822,-122.249077,25,1.5,2.5,3,110,10,2024-02-04,nate,0,True,False,
+3038,47.55479,-122.249234,7,3,3,3,100,15,2024-02-04,nate,0,False,False,
+3039,47.554567,-122.249171,28,NA,2.5,3,110,20,2024-02-04,nate,0,True,False,
+3040,47.55456,-122.249111,22,NA,1.5,3,105,5,2024-02-04,nate,0,True,False,
+3041,47.554578,-122.249241,11,2,3,3,90,5,2024-02-04,nate,0,False,False,
+4000,47.555329,-122.24944,49,NA,0,3,350,30,2024-02-06,muwei,0,False,False,middle has many recently died branches;not sure if this is self-pruning or disease; wp 0
+4001,47.5589041,-122.2508976,40,NA,0,0,350,0,2024-02-06,muwei,5,False,False,totem pole tree; bare fine branchlets top and middle; wp 100
+4002,47.5589235,-122.2504665,12,0,1.5,3,360,10,2024-02-06,muwei,0,False,False,wp 0
+4003,47.5590346,-122.2508835,2,0,0,1.5,360,0,2024-02-06,muwei,0,False,False,wp 0
+4004,47.5590021,-122.2505831,11,1,0.5,1,360,0,2024-02-06,muwei,0,False,False,
+4005,47.5589002,-122.2505265,14,0,0,0,30,5,2024-02-06,muwei,0,False,False,smaller of two recently (storm?) fallen trees
+4006,47.558903,-122.250525,27,0,0,0,30,5,2024-02-06,muwei,0,False,False,larger of two recently (storm?) fallen trees
+4007,47.5590306,-122.2504095,20,NA,1,3,30,15,2024-02-06,muwei,0,False,False,wp 0
+4008,47.5588713,-122.2505895,29,NA,0,2.5,30,15,2024-02-06,muwei,0,True,False,wp 0; canopy
+4010,47.5589824,-122.2504681,7,0,0,0,360,0,2024-02-06,muwei,0,False,False,
+4011,47.5589407,-122.2504893,5,0.5,0.5,1,360,0,2024-02-0,muwei,0,False,False,
+4012,47.5589688,-122.2504185,9,0,0,0,360,0,2024-02-06,muwei,0,False,False,
+4013,47.5587767,-122.2504775,7,1,1,2.5,10,5,2024-02-06,muwei,0,False,False,wp 0
+4014,47.5587593,-122.2503823,3,2.5,3,3,15,5,2024-02-06,muwei,0,False,True,growing on a doug-fir stump
+4020,47.5546386,-122.2496038,1.5,1,3,3,NA,0,2024-02-10,paul,0,False,True,needles thin on lowest branches; overall very healty appearance
+4021,47.5546193,-122.2496427,11,2,3,3,NA,0,2024-02-10,paul,0,False,False,no canopy
+4023,47.553855,-122.24952,23,NA,NA,0,75,30,2024-02-10,paul,0,False,False,uprooted;self-pruned apparently good canopy before fall; fine bare twigs at top; 5 years fallen?
+4024,47.5538948,-122.2494838,4,2,3,3,0,NA,2024-02-10,paul,0,False,False,grows out of large healthy fir
+4025,47.5538086,-122.2496819,4.5,2,2,3,NA,0,2024-02-10,paul,0,False,False,
+4026,47.5538004,-122.2497262,1.5,0,2,3,NA,0,2024-02-10,paul,0,False,False,growing out of heavily slumped doug fir log
+4027,47.5535076,-122.2498563,32,0,0,0,NA,0,2024-02-10,paul,4,False,False,16 ft snag; west facing log suggests 100 years
+4028,47.5533565,-122.2494787,36,NA,NA,3,100,10,2024-02-10,paul,0,False,False,surrounded by evergreen huckleberry
+4029,47.5530705,-122.2502281,24,0,3,3,90,10,2024-02-10,paul,0,True,False,canopy tree with two taller cedars NW and NE
+4030,47.5533271,-122.2478697,33,0,0,0,90,5,2024-02-10,paul,0,False,False,50 ft snag
+4031,47.553255,-122.248046,28,0,0,0,90,5,2024-02-10,paul,0,False,False,40 ft snag
+4032,47.553441,-122.248153,25,0,0,0,90,4,2024-02-10,paul,0,False,False,30 ft snag
+4033,47.554126,-122.2496122,29,0,0,0,NA,0,2024-02-13,paul,0,False,False,too old to include? log quite decayed
+4040,47.5553678,-122.2485014,26,NA,NA,3,45,25,2024-02-13,paul,0,True,True,canopy yes
+4041,47.554005,-122.2487187,15,0,0,0,90,5,2024-02-13,paul,0,False,False,cones vizible vz3;fine branchlets at all vz
+4042,47.5540717,-122.248828,13,2,3,3,90,5,2024-02-13,paul,0,True,False,nearly canopy not due to height but to surrounding dead trees; a hemlock w/top failed; cedar to north
+4050,47.5597489,-122.2508416,8,2.5,2.5,2.5,305,10,2024-02-17,paul,0,False,False,two feet north of a healthy cedar which shades out all but easterly branches
+4051,47.5596424,-122.2508487,19,0,0,0,345,0,2024-02-17,nate,0,False,False,14 ft snag; very old; log not evident
+4052,47.5592344,-122.2505654,40,NA,NA,3,10,NA,2024-02-17,nate,0,False,False,one dead branch vz2 south facing
+4053,47.5592405,-122.2504842,6,0,1.5,3,35,5,2024-02-17,nate,0,False,False,
+4054,47.5592007,-122.2504222,9,0,1,2.5,60,5,2024-02-17,nate,0,False,False,
+4055,47.5591964,-122.2501583,8,2,3,3,70,5,2024-02-17,nate,0,False,False,recently falled df damaged one side
+4056,47.5591776,-122.2501272,8,0,1,2,50,10,2024-02-17,nate,0,False,False,doubtful to include; mostly killed by falling df
+4059,47.5589043,-122.2499397,12,0.5,0,0.5,70,5,2024-02-17,nate,0,False,False,
+4060,47.558903,-122.2498801,5,0,1,2.5,85,10,2024-02-17,nate,0,False,False,
+4061,47.5588392,-122.2500061,17,1.5,2,3,80,5,2024-02-17,nate,0,False,False,
+4062,47.5587342,-122.2500148,6,0,0,2,65,5,2024-02-17,nate,0,False,False,
+4063,47.5586699,-122.2501738,19,0,0,3,55,5,2024-02-17,nate,0,False,False,fine branchlets at bottom: dz? self-pruning?
+4064,47.5585043,-122.2500393,28,NA,1,2,70,5,2024-02-17,nate,0,False,False,
+4065,47.5582473,-122.2501449,26,0,0,0,100,5,2024-02-17,nate,5,False,False,wp5
+4066,47.5582511,-122.2504598,15,0,0,0,65,5,2024-02-17,nate,0,False,False,2006 annosus
+4067,47.5582498,-122.2504215,30,0,0,0,80,5,2024-02-17,nate,3,False,False,2006 annosus
+4068,47.5582485,-122.25043,30,0,0,0,60,5,2024-01-17,eric,5,False,False,snag 7 feet;2006 annosus?
+4069,47.5582484,-122.2504088,16,0,0,0,70,5,2024-02-17,nate,0,False,False,2006 annosus?
+5001,47.5577355,-122.2526126,8,2,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5002,47.5576518,-122.2524647,14,1,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5003,47.5576266,-122.252288,5,3,3,3,NA,NA,2024-02-18,nate,0,False,True,
+5004,47.5575558,-122.2524486,8,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5005,47.5574864,-122.2525831,2,2,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5006,47.5574212,-122.2522595,2,2.5,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5007,47.5574341,-122.2522599,2,2,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5008,47.5571114,-122.2521992,18,2.5,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5009,47.5571723,-122.2525693,1,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5010,47.5569402,-122.2520738,7,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5011,47.5568628,-122.2519477,15,2,2,3,NA,NA,2024-02-18,nate,0,False,False,
+5012,47.5564286,-122.2525847,9,1,2,3,NA,NA,2024-02-18,nate,0,False,False,
+5013,47.556458,-122.2526548,7,2.5,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5014,47.5561629,-122.2518334,7,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5015,47.5563625,-122.2519695,12,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5016,47.5566017,-122.251997,5,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5017,47.5566404,-122.2519152,17,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5018,47.5567284,-122.2517549,7,3,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5019,47.5581158,-122.2499924,21,NA,2,3,NA,NA,2024-02-18,nate,0,False,False,
+5020,47.5581054,-122.2498482,20,NA,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5021,47.5581054,-122.2498482,23,2.5,3,3,NA,NA,2024-02-18,nate,0,False,False,
+5022,47.5578312,-122.2499344,10,0,2,3,NA,NA,2024-02-18,nate,0,False,False,
+5023,47.5577063,-122.2498408,9,1.5,3,3,NA,NA,2024-02-18,nate,0,False,False,
+6000,47.5597433,-122.2503736,7,1,2,2,30,30,2024-02-25,paul,0,False,False,
+6001,47.5598946,-122.2504427,18,2,2,3,30,30,2024-02-25,paul,0,True,False,unclear whether low west branch is self- pruned or diseased
+6002,47.560246,-122.2505955,2,0,0,0,320,5,2024-02-25,paul,0,False,False,six feet tall. fine branchlets covered with moss/lichen
+6003,47.560246,-122.2505955,1,1,1,2,320,5,2024-02-25,paul,0,False,False,todo: is this 6004?
+6005,47.5607659,-122.2508477,2.5,2,3,3,330,5,2024-02-25,paul,0,False,True,this and 6006 grow out of 6 ft diameter logged df stump
+6006,47.560773,-122.250814,6,2,3,3,360,10,2024-02-25,paul,0,False,True,overall thin needles - lower branches bare probably due to self-pruning
+6007,47.5609713,-122.2516232,1,3,3,3,NA,0,2024-02-25,paul,0,False,False,planted; tag has lost all color; orange inferred from 6009 and 6010
+6008,47.5611259,-122.2516724,1.5,2,3,3,290,5,2024-02-25,paul,0,False,True,grows off base of old stump (which might be hemlock)
+6009,47.5610476,-122.2517482,0.5,3,3,3,260,10,2024-02-25,paul,0,False,False,planted - trace of orange on tag
+6010,47.5610098,-122.2520235,0.5,3,3,3,275,5,2024-02-25,paul,0,False,False,planted; orange trace on tag; six feet tall
+6011,47.5612526,-122.2523484,1,1,3,3,300,5,2024-02-25,paul,0,False,False,
+6012,47.5611652,-122.2530907,3,2,2.5,3,330,10,2024-02-25,paul,0,False,False,10 feet from seasonal stream - running now; todo: mislabeled as 6011
+137,47.5592231,-122.2499964,3,2,2,3,70,10,2024-02-25,eric,0,False,True,grows out of a maple stump
+138,47.5592905,-122.2500836,7,0,0,2,70,10,2024-02-25,eric,0,False,False,
+139,47.5610856,-122.2512819,17,0.5,1.5,3,340,10,2024-02-25,eric,0,True,False,
+140,47.5612193,-122.251473,6,2,3,3,340,10,2024-02-25,eric,0,False,False,
+142,47.5612526,-122.2519125,5,1,2,3,340,10,2024-02-25,eric,0,False,False,
+143,47.5612897,-122.2521217,12,0,2.5,3,290,5,2024-02-25,eric,0,False,False,
+144,47.5612897,-122.2521217,3,2.5,3,3,280,5,2024-02-25,eric,0,False,False,
+6020,47.5580237,-122.2497141,31,NA,NA,3,40,20,2024-02-27,paul,0,True,False,
+6021,47.5580918,-122.2495934,18,0,0,0,40,20,2024-02-27,paul,0,True,False,uprooted;fine branches at top;recent. 
+6022,47.5581362,-122.2496092,8.5,0,0,1.5,40,20,2024-02-27,paul,0,False,False, very thin needles at top; surplus cones
+6023,47.5581445,-122.2494982,6,NA,2,3,40,20,2024-02-27,paul,0,False,False, broken top. 16 ft tall. dougFir-like lower bark
+6024,47.558121,-122.2492967,15,2,2,3,40,20,2024-02-27,paul,0,True,False,  lots of pruning vz 0; one fine branch; no dz evident 
+6025,47.5581029,-122.2493322,22,NA,NA,3,40,20,2024-02-27,paul,0,True,False,  cluster of fine branches vz 0. And 1 East facing 0-16 ft. Much pruning north and west
+6026,47.5576282,-122.2489896,43,NA,NA,3,40,20,2024-02-27,paul,0,True,False,  50 ft north of hatchery fence nw corner
+6027,47.5575794,-122.2490161,28,0,0,0,40,20,2024-02-27,paul,3,False,False, 7 ft stump
+6028,47.5575151,-122.2489705,9.5,3,2,3,40,20,2024-02-27,paul,0,False,False, 
+6029,47.5573922,-122.2493336,25,0,0,0,40,20,2024-02-27,paul,5,False,False, 28 ft. Snag
+6030,47.5575171,-122.2493004,34,NA,2,3,80,10,2024-02-27,paul,0,True,False,  vz 2 mix of self-pruning and health; Lots of holly nearby
+6031,47.5574468,-122.2492715,6,3,3,3,80,15,2024-02-27,paul,0,False,False, 
+6032,47.5573787,-122.2494177,6,1,3,3,80,15,2024-02-27,paul,0,False,False,  
+6033,47.5573792,-122.2494185,1,NA,2,3,80,15,2024-02-27,paul,0,False,True,   grows out of a log  log 
+6034,47.5574257,-122.2494023,30,NA,2,3,100,15,2024-02-27,paul,0,True,False,  
+6035,47.5574404,-122.2493641,4.5,0,2,3,100,15,2024-02-27,paul,0,False,False,  
+6036,47.557425,-122.2492296,35,NA,2,3,100,15,2024-02-27,paul,2,True,False,  
+6037,47.5575669,-122.2495049,28,2,NA,3,110,30,2024-02-27,paul,0,True,False, 
+6038,47.5575563,-122.2496383,10,3,3,3,110,30,2024-02-27,paul,0,False,False, 
+6039,47.5575585,-122.2495126,36,0,0,0,110,30,2024-02-27,paul,0,True,False,   35 ft  snag
+400,47.5582031,-122.2496601,18,NA,NA,2.5,90,10,2024-02-27,muwei,0,True,False,
+401,47.558109,-122.2496108,24,NA,NA,3,90,15,2024-02-27,muwei,0,True,False,
+402,47.5580674,-122.2496947,24,NA,2.5,3,90,20,2024-02-27,muwei,0,True,False,
+403,47.5581511,-122.2497185,20,NA,1.5,2,90,15,2024-02-27,muwei,0,True,False,
+404,47.5582326,-122.2497537,12,NA,2,2.5,90,15,2024-02-27,muwei,0,True,False,likely breaking through the canopy and shedding lower branches naturally
+405,47.5580617,-122.2497721,19,NA,2,3,60,15,2024-02-27,muwei,0,True,False,
+406,47.5581007,-122.2496869,21,2,2.5,3,60,15,2024-02-27,muwei,0,True,False,
+407,47.5579448,-122.2495783,35,NA,NA,3,90,15,2024-02-27,muwei,0,True,False,
+408,47.5580581,-122.2496393,6.5,1,2,3,90,20,2024-02-27,muwei,0,False,False,
+409,47.5580737,-122.2496558,8.5,NA,2,3,90,20,2024-02-27,muwei,0,False,False,
+410,47.5579583,-122.2493929,8.5,NA,2,2.5,90,20,2024-02-27,muwei,0,False,False,
+145,47.5578893,-122.2502589,29,0,0,0,90,5,2024-03-02,eric,4,True,False, snag: 55 ft.
+146,47.5578255,-122.2503364,13,NA,1.5,3,90,5,2024-03-02,eric,0,False,False,growing out of a maple tree a few feet off the ground - had to climb it.
+147,47.5576594,-122.2500611,13,2,3,3,90,5,2024-03-02,eric,0,True,False,
+148,47.5576594,-122.2500611,18,0,0,0,90,5,2024-03-02,eric,2,False,False,Fallen tree - looks somewhat recent
+149,47.5576746,-122.250446,12,0,0,0,90,5,2024-03-02,eric,0,False,False,Fallen tree - looks somewhat recent
+150,47.5577414,-122.2502281,13,1.5,2.5,3,90,5,2024-03-02,eric,0,True,False,
+151,47.557726,-122.2502338,9,0.5,2,3,90,5,2024-03-02,eric,0,True,False,
+152,47.5577447,-122.2502241,10,2.5,2,2.5,90,5,2024-03-02,eric,0,True,False,Very strange snag. Looks like a normal tree but is chopped off 20 feet up.
+153,47.5576746,-122.250446,13,0,0,0,90,5,2024-03-02,eric,0,False,False,Fallen tree - looks somewhat recent
+154,47.5575334,-122.2503437,13,3,3,3,90,5,2024-03-02,eric,0,False,False,
+155,47.5575334,-122.2503437,4,0,0,0,120,5,2024-03-02,eric,0,False,False,Fallen young tree - looks somewhat recent
+156,47.5575269,-122.2503531,8,NA,2,3,120,5,2024-03-02,eric,0,False,False,
+157,47.5575088,-122.2503867,6,1,1.5,3,120,5,2024-03-02,eric,0,False,False,
+158,47.5575228,-122.2503645,5,0,2,3,120,5,2024-03-02,eric,0,False,False,
+159,47.5575228,-122.2503645,5,0,1,2,120,5,2024-03-02,eric,0,False,False,
+160,47.5573823,-122.2504701,4,1.5,2.5,2.5,120,5,2024-03-02,eric,0,False,True,out of big df stump
+161,47.5573823,-122.2504701,4,0,3,3,120,5,2024-03-02,eric,0,False,True,out of big df stump
+162,47.5573823,-122.2504701,3,1.5,2,3,120,5,2024-03-02,eric,0,False,True,out of big df stump
+163,47.557378,-122.2504779,6,0,0,0,120,5,2024-03-02,eric,0,False,False,fallen tree
+164,47.5573531,-122.2505986,24,2,2,3,120,5,2024-03-02,eric,0,False,False,
+165,47.5573375,-122.2506378,26,NA,3,3,120,10,2024-03-02,eric,0,True,False,
+166,47.5573375,-122.2506378,27,NA,2,3,120,10,2024-03-02,eric,0,True,False,
+167,47.5573375,-122.2506378,18,1,1.5,3,120,10,2024-03-02,eric,0,True,False,
+168,47.5573375,-122.2506378,18,1,1.5,3,120,10,2024-03-02,eric,0,True,False,
+169,47.5573178,-122.2507008,4,1,2,2.5,120,10,2024-03-02,eric,0,False,False,
+170,47.5572481,-122.2509318,28,0,0,0,330,5,2024-03-02,eric,0,False,False,snag - 45 feet
+171,47.5573488,-122.2509841,32,NA,NA,3,330,5,2024-03-02,eric,0,True,False,
+172,47.5571834,-122.2508869,5,0,1.5,1.25,330,5,2024-03-02,eric,0,False,False,
+173,47.557108,-122.2509057,5,0,1.5,2,80,5,2024-03-02,eric,0,False,False,
+174,47.5570775,-122.2508111,7,1,2.5,3,80,10,2024-03-02,eric,0,False,False,
+175,47.5571366,-122.2505734,22,NA,2,3,70,5,2024-03-02,eric,0,False,False,
+176,47.5571223,-122.2505546,26,NA,NA,3,70,5,2024-03-02,eric,0,True,False,
+177,47.5571223,-122.2505546,31,0,0,0,70,5,2024-03-02,eric,3,False,False, snag 45 ft.
+411,47.5578224,-122.2501238,16,0,0,0,90,15,2024-03-02,muwei,0,True,False,fallen log
+412,47.5576615,-122.2500329,30,0,0,0,90,10,2024-03-02,muwei,0,True,False,10 foot snag
+413,47.5575398,-122.2501868,8.5,2,2.5,3,120,10,2024-03-02,muwei,0,False,False,
+414,47.5574649,-122.2502096,1,1,2,3,90,15,2024-03-02,muwei,0,False,True,
+415,47.5575409,-122.2503364,0.5,3,3,3,90,15,2024-03-02,muwei,0,False,True,
+416,47.5575058,-122.2502995,1,2,3,3,90,15,2024-03-02,muwei,0,False,True,
+418,47.557413,-122.2501932,3.5,1,1.5,2.5,120,20,2024-03-02,muwei,0,False,True,
+419,47.557332,-122.2504909,8,NA,2.5,3,90,20,2024-03-02,muwei,0,False,False,
+420,47.5572701,-122.2504051,4.5,NA,0,3,90,20,2024-03-02,muwei,0,False,False,
+421,47.5571284,-122.2505691,22.5,2.5,3,3,90,20,2024-03-02,muwei,0,True,False,missing top
+422,47.5571501,-122.250502,5,2,3,3,60,25,2024-03-02,muwei,0,False,False,
+423,47.5572977,-122.2506877,8,0,2.5,3,60,25,2024-03-02,muwei,0,False,False,
+424,47.5572449,-122.2506582,28,NA,NA,3,99,25,2024-03-02,muwei,0,True,False,zone 1 and 2 some failing branches - likely self-pruning
+425,47.5571673,-122.2506304,5,2,2.5,3,60,25,2024-03-02,muwei,0,False,False,
+426,47.5570859,-122.2507558,3.5,2.5,3,3,60,30,2024-03-02,muwei,0,False,False,
+427,47.5570264,-122.2507065,8,0,0,0,50,5,2024-03-02,muwei,0,False,False,very recently died
+5027,47.5556534,-122.2505231,5.5,3,3,3,90,5,2024-03-02,nate,0,False,True,growing out of df stump
+5028,47.5556672,-122.2505483,5.5,3,3,3,90,5,2024-03-02,nate,0,False,True,growing out of stump
+5029,47.5557068,-122.2505489,7,3,3,3,90,5,2024-03-02,nate,0,False,True,growing out of stump
+5030,47.5557305,-122.2506056,9,2.5,3,3,80,5,2024-03-02,nate,0,False,False,
+5031,47.5557867,-122.2505124,5,3,3,3,85,5,2024-03-02,nate,0,False,False,
+5032,47.555819,-122.2507957,22,3,3,3,250,5,2024-03-02,nate,0,False,False,
+5033,47.555922,-122.2508031,8,3,3,3,240,5,2024-03-02,nate,0,False,False,
+5034,47.5559428,-122.2506281,5,3,3,3,80,5,2024-03-02,nate,0,False,False,
+5035,47.5560521,-122.2507069,4,3,3,3,85,5,2024-03-02,nate,0,False,False,
+5036,47.5561156,-122.2508108,2,3,3,3,235,1,2024-03-02,nate,0,False,True,growing out of doug fir log
+5037,47.556058,-122.2509995,5,2,3,3,215,1,2024-03-02,nate,0,False,False,
+5039,47.5561808,-122.2506126,33,3,3,3,110,5,2024-03-02,nate,0,True,False,
+5040,47.5562808,-122.2506656,5,2,2,2,110,5,2024-03-02,nate,0,False,False,
+5041,47.5561881,-122.250329,39,NA,3,3,125,5,2024-03-02,nate,0,True,False,
+5042,47.556148,-122.2504118,30,NA,3,3,120,5,2024-03-02,nate,0,True,False,
+5043,47.5562396,-122.2503682,16,3,3,3,110,5,2024-03-02,nate,0,False,False,
+6100,47.5552364,-122.2495609,26,NA,2,3,NA,0,2024-03-02,paul,0,True,False,natural pruning at level 2; flat
+6101,47.5556839,-122.2504359,36,3,3,3,80,30,2024-03-02,paul,0,True,False,
+6102,47.5557815,-122.2503639,35,NA,NA,3,80,30,2024-03-02,paul,0,True,False,
+6103,47.5559523,-122.2504554,17,NA,2,3,70,25,2024-03-02,paul,0,True,False,low branch needles show some brown. . Might be a sign of self pruning OR dz
+6104,47.5559878,-122.2504614,10,NA,2,2,70,10,2024-03-02,paul,0,False,False,bottom lack of needles seems more self-pruning - not disease
+6105,47.5560177,-122.2503018,9,2,2.5,2.5,70,30,2024-03-02,paul,0,False,False,needles all 3 sections - but a little thin
+6106,47.5561261,-122.2502536,3,3,3,3,100,20,2024-03-02,paul,0,False,True,grows out of base of fallen doug fir
+6107,47.5561485,-122.2502157,3,3,3,3,100,35,2024-03-02,paul,0,False,True,base of doug fir now fallen hemlock is now horizontal
+6108,47.556148,-122.250215,3,2,3,3,100,35,2024-03-02,paul,0,False,True, 12 feet normal vertical growth out of another hemlock stump near 6107
+6109,47.5561475,-122.2502145,27,0,0,0,100,35,2024-03-02,paul,0,False,False,10 years fallen?
+6110,47.5559604,-122.2501345,5,NA,3,3,65,20,2024-03-02,paul,0,False,True,grows out of 6 ft cut df stump
+6112,47.5558444,-122.2503317,11,3,3,3,75,30,2024-03-02,paul,0,False,False, 6 feet east southeast of 6102
+6113,47.5557554,-122.2501875,4,0,0,0,75,30,2024-03-02,paul,0,False,False,strange 6 ft tree; broken top; fine branches and cones survive
+6114,47.5556495,-122.2503092,24,0,0,0,70,30,2024-03-02,paul,0,False,False,fallen 10-20 years ago?
+6115,47.5556495,-122.250308,0.5,3,3,3,70,30,2024-03-02,paul,0,False,True, 3 foot sampling growing out of a doug fir stump
+6116,47.5556767,-122.2499615,18,NA,1,3,55,15,2024-03-02,paul,0,True,False,
+6117,47.5559444,-122.2499967,7,1,1,2,50,10,2024-03-02,paul,0,False,False,may be actively dying down low
+6118,47.5560399,-122.2502207,37,NA,NA,3,50,10,2024-03-02,paul,0,True,False,few zone 0 and 1 branches failing but not from dz. Pruning more likely
+178,47.5569963,-122.2505838,20,NA,2.5,3,80,10,2024-03-03,eric,0,True,False,
+179,47.5571773,-122.2505328,28,NA,2.5,3,80,10,2024-03-03,eric,0,True,False,
+180,47.5571476,-122.2505452,34,1,3,3,80,10,2024-03-03,eric,0,False,False,
+181,47.5572237,-122.2503334,27,0,1.5,2.5,80,10,2024-03-03,eric,0,True,False,
+182,47.5572187,-122.2502572,25,0,1,3,80,10,2024-03-03,eric,0,True,False,
+183,47.5570999,-122.2506458,3,1,1.75,3,80,10,2024-03-03,eric,0,True,False,
+184,47.5570689,-122.2507018,20,NA,1.5,2.5,80,10,2024-03-03,eric,0,True,False,
+185,47.5570225,-122.2506958,13,NA,2,3,220,5,2024-03-03,eric,0,False,False,
+186,47.5569205,-122.2508044,6,0,NA,1.5,220,5,2024-03-03,eric,0,False,False,
+187,47.5569092,-122.2508235,14,1.5,2,2.5,220,5,2024-03-03,eric,0,False,False,
+188,47.5568562,-122.2508614,6,1,NA,1,220,5,2024-03-03,eric,0,False,False,
+189,47.5568562,-122.2508614,6,NA,NA,1,220,5,2024-03-03,eric,0,False,False,
+190,47.5568562,-122.2508614,44,3,3,3,220,5,2024-03-03,eric,0,True,False,
+191,47.5567696,-122.2506773,12,NA,2.5,3,220,5,2024-03-03,eric,0,False,False,
+192,47.5567223,-122.2510394,5,NA,2,2.5,220,5,2024-03-03,eric,0,False,False,
+193,47.556737,-122.2510549,5,0,0.5,1,220,5,2024-03-03,eric,0,False,False,
+194,47.5566702,-122.2510156,16,NA,3,3,220,5,2024-03-03,eric,0,False,False,
+195,47.5567096,-122.2508242,14,NA,1.5,2,220,5,2024-03-03,eric,0,True,False,
+196,47.5567096,-122.2508242,16,NA,1.5,2.5,220,5,2024-03-03,eric,0,True,False,
+197,47.5567096,-122.2508242,19,NA,1.5,2.5,220,5,2024-03-03,eric,0,True,False,
+198,47.5566754,-122.2508544,3,NA,1.5,2,220,5,2024-03-03,eric,0,False,False,
+199,47.5566207,-122.2510602,41,0,0,0,220,3,2024-03-03,eric,3,False,False,40 foot snag
+200,47.5565908,-122.2511256,16,NA,1.5,2,220,5,2024-03-03,eric,0,False,False,50 foot snag;NA-1-1.5 if counting live needles;broken top
+201,47.5565616,-122.2510757,7,0,0,0,220,5,2024-03-03,eric,0,False,False,13 foot snag
+202,47.556598,-122.251255,33,0,0,0,220,5,2024-03-03,eric,1,False,False,Cannot see the top; not sure if a snag or just dying. 70-80 ft.
+203,47.556534,-122.2508604,29,NA,1.5,3,220,5,2024-03-03,eric,0,False,False,
+204,47.556534,-122.2508604,20,NA,NA,2.25,220,5,2024-03-03,eric,0,False,False,
+205,47.5566361,-122.2507132,28,NA,3,3,220,5,2024-03-03,eric,0,True,False,
+206,47.5565173,-122.2506371,20,NA,1.5,2.5,220,5,2024-03-03,eric,0,True,False,
+207,47.5565173,-122.2506371,5,NA,1.5,2,80,10,2024-03-03,eric,0,False,False,
+208,47.5565155,-122.2505788,34,NA,1.5,1,80,10,2024-03-03,eric,0,True,False,
+209,47.5565211,-122.2504785,26,1.5,2.5,3,80,10,2024-03-03,eric,0,False,False,
+210,47.5565906,-122.2505577,2,1,1.5,2.5,220,5,2024-03-03,eric,0,False,False,
+6119,47.5561496,-122.2499159,36,0,0,0,90,25,2024-03-03,paul,0,False,False,16 ft snag
+6120,47.5562175,-122.2497728,23,NA,2,3,90,25,2024-03-03,paul,0,True,False,
+6121,47.5562218,-122.249581,8,3,3,3,90,30,2024-03-03,paul,0,False,False,perfect young tree. branches all levels all directions. 35 ft?
+6122,47.5562906,-122.2497543,12,NA,NA,3,90,35,2024-03-03,paul,0,True,False,
+6123,47.5563863,-122.2497295,19,NA,NA,3,90,35,2024-03-03,paul,0,True,False,6124 & 6125 close by
+6124,47.5563858,-122.2497295,20,NA,NA,3,90,25,2024-03-03,paul,0,True,False,
+6125,47.5563863,-122.2497393,10,3,3,3,90,25,2024-03-03,paul,0,False,False,not quite to canopy
+6126,47.556291,-122.2499136,16,3,3,3,110,45,2024-03-03,paul,0,True,False,
+6127,47.5564745,-122.2500521,31,3,3,3,80,40,2024-03-03,paul,0,True,False,anticorrelated fern health: everywhere dead
+6128,47.5565854,-122.249989,27,NA,3,3,80,40,2024-03-03,paul,0,True,False,
+6129,47.5564833,-122.2500638,25,NA,3,3,80,5,2024-03-03,paul,0,True,False,back on the flat
+6130,47.5566204,-122.2502676,40,NA,NA,3,80,5,2024-03-03,paul,0,True,False,
+6131,47.5564417,-122.2501845,22,0,0,0,80,5,2024-03-03,paul,0,True,False,18 ft snag
+6132,47.5563143,-122.2501842,18,NA,NA,3,80,5,2024-03-03,paul,0,True,False,
+6133,47.5563247,-122.250095,31,1,3,3,80,5,2024-03-03,paul,0,True,False,big canopy tree yet lower branches with lot of cones and losing needles. Atypical pruning?
+6135,47.556491,-122.2504239,40,0,0,0,80,5,2024-03-03,paul,0,True,False,massive fallen tree
+6136,47.556761,-122.2505429,9,3,3,3,60,15,2024-03-03,paul,0,True,False,
+6137,47.5567544,-122.2503753,7,0,0,1.5,60,15,2024-03-03,paul,0,True,False,
+6138,47.5568227,-122.2504145,12,NA,NA,3,60,15,2024-03-03,paul,0,True,False,young but emerging into canopy. Mixed lower branches. No sign of disease
+6139,47.5568666,-122.2505664,18,NA,3,3,60,15,2024-03-03,paul,0,True,False,
+6140,47.5568076,-122.2504443,41,NA,3,3,60,15,2024-03-03,paul,0,True,False,
+6141,47.5568119,-122.2505228,5,3,3,3,60,15,2024-03-03,paul,0,False,False,
+6142,47.5568119,-122.2505228,22,0,0,0,60,15,2024-03-03,paul,0,False,False,uprooted last 2-5 years?
+6143,47.5569395,-122.250439,31,NA,3,3,40,30,2024-03-03,paul,0,True,False,sword fern monoculture dying here
+6144,47.5569897,-122.2502465,11,3,3,3,40,30,2024-03-03,paul,0,False,False,
+6145,47.5570277,-122.2500108,25,NA,NA,3,85,20,2024-03-03,paul,0,True,False,cherry laurel 100 feet north
+6146,47.5568983,-122.2497815,20,NA,NA,2.6,85,10,2024-03-03,paul,0,True,False,canopy layer needles might be a little thin
+6147,47.5568187,-122.2496735,28,NA,NA,3,85,10,2024-03-03,paul,0,True,False,
+2021-001,47.558333,-122.250825,10.5,0,1.5,3,NA,NA,2021-07-05,pshannon,0,False,False,
+2021-002,47.55855,-122.25139,10,0,3,3,NA,NA,2021-07-14,all,0,False,False,
+2021-003,47.558316,-122.250828,35,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-004,47.55785,-122.25077,8,0,0,1.5,NA,NA,2021-07-14,all,0,False,False,
+2021-005,47.557763,-122.250862,12,0,0,0,NA,NA,2021-07-14,all,0,False,False,
+2021-006,47.55779,-122.250823,27,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-007,47.55788,-122.25083,22,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-008,47.557862,-122.250839,31,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-009,47.557847,-122.250935,6,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-010,47.55812,-122.25134,4,0,1.5,3,NA,NA,2021-07-14,all,0,False,False,
+2021-014,47.55804,-122.25145,15,0,0,1.5,NA,NA,2021-07-15,all,0,False,False,left;smaller of pair
+2021-015,47.55792,-122.25169,19,0,1.5,3,NA,NA,2021-07-15,all,0,False,False,left;larger of pair
+2021-016,47.55784,-122.25197,3,3,3,3,NA,NA,2021-07-15,all,0,False,False,southernmost of 3 small trees stradling or in old DF stump
+2021-017,47.55786,-122.25196,5,3,3,3,NA,NA,2021-07-15,all,0,False,False,center of 3 small trees (also  16 and 18)
+2021-018,47.55788,-122.25195,3,3,3,3,NA,NA,2021-07-15,all,0,False,False,northeast of the 3 small trees
+2021-019,47.55796,-122.25182,2,1.5,3,3,NA,NA,2021-07-15,all,0,False,False,small tree just north of 7/15 southernmost tree;shows disease
+2021-025,47.55797,-122.2514,2,3,3,3,NA,NA,2021-07-19,all,0,False,False,
+2021-026,47.5577,-122.25167,46,1.5,0,0,NA,NA,2021-07-19,pshannon,0,False,False,
+2021-027,47.55772,-122.25148,10,1.5,3,3,NA,NA,2021-07-19,all,0,False,False,
+2021-028,47.5577,-122.2515,10,1.5,3,3,NA,NA,2021-07-19,all,0,False,False,
+2021-029,47.55765,-122.25153,18,0,0,0,NA,NA,2021-07-19,all,0,False,False,snag
+2021-030,47.55689,-122.25172,6,1.5,3,3,NA,NA,2021-07-10,all,0,False,False,group of 4
+2021-031,47.55688,-122.25171,8,1.5,3,3,NA,NA,2021-07-10,all,0,False,False,group of 4
+2021-032,47.55689,-122.2517,8,1.5,3,3,NA,NA,2021-07-10,all,0,False,False,group of 4
+2021-033,47.5569,-122.25171,8,1.5,3,3,NA,NA,2021-07-10,all,0,False,False,group of 4
+2021-035,47.55674,-122.25144,6,3,3,3,NA,NA,2021-07-22,all,0,False,False,35-37 in a triangle; see sheet 37
+2021-036,47.55673,-122.25143,29,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,35 w 37 e 36 s
+2021-037,47.556751,-122.251452,13,0,1.5,3,NA,NA,2021-07-22,all,0,False,False,
+2021-038,47.556871,-122.251312,36,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,
+2021-039,47.55695,-122.25104,20,0,1.5,3,NA,NA,2021-07-22,all,0,False,False,
+2021-040,47.55697,-122.25106,14,1.5,1.5,3,NA,NA,2021-07-22,all,0,False,False,remeasure diameter; seems too small
+2021-041,47.557048,-122.250969,8,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,
+2021-042,47.557053,-122.250983,23,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,
+2021-043,47.557215,-122.250998,27,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,
+2021-044,47.557209,-122.250989,1,0,0,0,NA,NA,2021-07-22,all,0,False,False,little snag 44 is west of 43
+2021-045,47.557199,-122.250986,1,0,0,0,NA,NA,2021-07-22,all,0,False,False,little snag 44 is west of 43
+2021-046,47.556929,-122.251341,29,1.5,1.5,3,NA,NA,2021-07-22,all,0,False,False,
+2021-047,47.556957,-122.25134,36,0,1.5,3,NA,NA,2021-07-28,all,0,False,False,the reference tree for this group of 11
+2021-048,47.556972,-122.251306,36,0,0,0,NA,NA,2021-07-22,all,0,False,False,snag east 29'
+2021-049,47.55697,-122.25134,23,0,0,0,NA,NA,2021-07-22,all,0,False,False,snag  south 7'
+2021-050,47.556969,-122.251373,36,0,0,0,NA,NA,2021-07-22,all,0,False,False,probably snag: check. west 29'
+2021-051,47.556986,-122.251364,17,0,1.5,3,NA,NA,2021-07-22,all,0,False,False,probably snag: check. northwest 29'
+2021-052,47.556988,-122.251338,25,0,1.5,3,NA,NA,2021-07-22,all,0,False,False,remorth 33
+2021-053,47.556997,-122.251311,28,0,0,1.5,NA,NA,2021-07-22,all,0,False,False,north 55'
+2021-053b,47.557024,-122.251338,28,0,1.5,3,NA,NA,2021-07-26,all,0,False,False,north 90'
+2021-054,47.556939,-122.251341,11,0,0,3,NA,NA,2021-07-26,all,0,False,False,distance between 1st healthy and second is 50'
+2021-055,47.55765,-122.25109,52,3,3,3,NA,NA,2021-07-27,all,0,False,False,very healthy
+2021-056,47.5577,-122.2511,4,0,1.5,3,NA,NA,2021-07-27,all,0,False,False,south 8'
+2021-057,47.5577,-122.2511,7,3,3,3,NA,NA,2021-07-27,all,0,False,False,north 8'
+2021-058,47.5577,-122.25088,4,0,1.5,3,NA,NA,2021-07-27,all,0,False,False,southeast 8'
+2021-059,47.5577,-122.25088,7,0,1.5,3,NA,NA,2021-07-27,all,0,False,False,northwest 8'
+2021-060,47.55724,-122.25193,7,1.5,1.5,3,NA,NA,2021-07-29,all,0,False,False,
+2021-061,47.557259,-122.251957,10,0,1.5,1.5,NA,NA,2021-07-29,all,0,False,False,nw 17'
+2021-062,47.557282,-122.251935,6,1.5,3,3,NA,NA,2021-07-29,all,0,False,False,n 45
+2021-063,47.557283,-122.251931,19,0,3,3,NA,NA,2021-07-29,all,0,False,False,n 46
+2021-064,47.557214,-122.25193,13,0,1.5,3,NA,NA,2021-07-29,all,0,False,False,s 13
+2021-065,47.557201,-122.25193,32,3,3,3,NA,NA,2021-07-29,all,0,False,False,s 21
+2021-066,47.55719,-122.251928,13,0,1.5,3,NA,NA,2021-07-29,all,0,False,False,s 34
+2021-100,47.553219,-122.250113,23,0,1.5,3,NA,NA,2021-08-03,all,0,False,False,
+2021-101,47.553777,-122.250264,17,1.5,3,3,NA,NA,2021-08-03,all,0,False,False,need dmr
+2021-103,47.55424,-122.250231,9,0,0,0,NA,NA,2021-08-03,all,0,False,False,
+2021-110,47.554356,-122.251337,9,1.5,1.5,3,NA,NA,2021-08-03,all,0,False,False,
+2021-111,47.554675,-122.251294,4,1.5,3,3,NA,NA,2021-08-03,all,0,False,False,
+2021-112,47.555044,-122.250628,7,1.5,3,3,NA,NA,2021-08-03,all,0,False,False,
+2021-113,47.554935,-122.25094,32,1.5,1.5,3,NA,NA,2021-08-03,all,0,False,False,
+2021-114,47.554501,-122.251079,21,0,0,0,NA,NA,2021-08-03,all,0,False,False,dead; next to stump
+2021-115,47.554537,-122.251111,21,0,0,0,NA,NA,2021-08-03,all,0,False,False,stump
+2021-116,47.554414,-122.251111,30,0,0,0,NA,NA,2021-08-04,all,0,False,False,1' from trail; dead
+2021-117,47.553733,-122.25095,5,1.5,1.5,3,NA,NA,2021-08-04,all,0,False,False,
+2021-118,47.553762,-122.251068,1,3,1.5,3,NA,NA,2021-08-04,all,0,False,False,
+2021-119,47.553893,-122.251036,1,3,1.5,3,NA,NA,2021-08-04,all,0,False,False,
+2021-120,47.554157,-122.251051,23,0,1.5,1.5,NA,NA,2021-08-04,all,0,False,False,10'9" from trail
+2021-121,47.554205,-122.250966,6,1.5,1.5,1.5,NA,NA,2021-08-04,all,0,False,False,
+2021-122,47.554201,-122.251041,4,0,0,1.5,NA,NA,2021-08-04,all,0,False,False,
+2021-123,47.554223,-122.251185,19,0,1.5,3,NA,NA,2021-08-04,all,0,False,False,36'11" from trail
+2021-142,47.559343,-122.25162,28,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,15'11" from trail
+2021-143,47.55932,-122.251663,4,0,0,0,NA,NA,2021-08-09,all,0,False,False,9'9" from trail
+2021-144,47.5593,-122.251614,5,0,1.5,3,NA,NA,2021-08-09,all,0,False,False,4'1" from trail
+2021-145,47.559267,-122.251617,8,1.5,1.5,3,NA,NA,2021-08-09,all,0,False,False,37'8" from trail
+2021-146,47.559274,-122.25166,5,0,0,0,NA,NA,2021-08-09,all,0,False,False,26'9" from trail; 2 trunks with the same DBH
+2021-147,47.559277,-122.251875,38,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,22'3" from trail
+2021-148,47.559321,-122.251864,28,0,0,0,NA,NA,2021-08-09,all,0,False,False,1' from trail
+2021-149,47.559332,-122.251894,3,0,0,0,NA,NA,2021-08-09,all,0,False,False,11'11" from trail
+2021-150 ,47.559279,-122.252023,20,0,0,0,NA,NA,2021-08-09,all,0,False,False,13'1" from trail
+2021-151,47.559359,-122.25188,16,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,50'7" from trail
+2021-152,47.559338,-122.251983,29,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,36'3" from trail
+2021-153,47.559261,-122.252442,27,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,40' from trail
+2021-154,47.559133,-122.252354,29,1.5,1.5,3,NA,NA,2021-08-09,all,0,False,False,22' from trail
+2021-155,47.559165,-122.252501,27,1.5,1.5,1.5,NA,NA,2021-08-09,all,0,False,False,2' from trail
+2021-156,47.559141,-122.252536,28,0,0,1.5,NA,NA,2021-08-09,all,0,False,False,24' from trail
+2021-157,47.559113,-122.252661,14,1.5,0,1.5,NA,NA,2021-08-09,all,0,False,False,4' from trail
+2021-158,47.559083,-122.252709,29,0,1.5,3,NA,NA,2021-08-09,all,0,False,False,4' from trail
+2021-159,47.559194,-122.252687,23,0,0,0,NA,NA,2021-08-09,all,0,False,False,snag 4' from trail
+2021-160,47.559182,-122.2528,16,0,0,0,NA,NA,2021-08-09,all,0,False,False,12' from trail
+2021-161,47.559134,-122.252798,7,0,0,0,NA,NA,2021-08-09,all,0,False,False,14' from trail
+2021-162,47.559123,-122.25286,12,1.5,1.5,1.5,NA,NA,2021-08-10,all,0,False,False,30' from trail
+2021-163,47.559186,-122.252865,19,0,0,0,NA,NA,2021-08-09,all,0,False,False,5' from trail
+2021-164,47.559361,-122.252708,11,0,0,1.5,NA,NA,2021-08-11,all,0,False,False,15' from trail
+2021-164a,47.559366,-122.25272,6,0,0,0,NA,NA,2021-08-11,all,0,False,False,small snag
+2021-164b,47.559375,-122.252731,11,0,0,0,NA,NA,2021-08-11,all,0,False,False,small snag
+2021-165,47.559464,-122.252635,28,0,0,1.5,NA,NA,2021-08-11,all,0,False,False,29' from trail
+2021-166,47.559381,-122.252743,10,0,0,0,NA,NA,2021-08-11,all,0,False,False,34' from trail
+2021-167,47.559494,-122.252541,9,0,1.5,1.5,NA,NA,2021-08-11,all,0,False,False,4' from trail
+2021-168,47.559514,-122.252321,28,0,1.5,1.5,NA,NA,2021-08-11,all,0,False,False,16' from trail
+2021-169,47.559563,-122.252409,28,0,0,0,NA,NA,2021-08-11,all,0,False,False,27' from trail; snag
+2021-170,47.559602,-122.252491,19,0,1.5,3,NA,NA,2021-08-11,all,0,False,False,60' from trail
+2021-171,47.559626,-122.252296,40,0,0,0,NA,NA,2021-08-11,all,0,False,False,5' from trail; snag
+2021-172,47.559659,-122.252337,22,0,0,1.5,NA,NA,2021-08-11,all,0,False,False,48' from trail
+2021-173,47.55963,-122.251876,31,0,0,1.5,NA,NA,2021-08-11,all,0,False,False,13' from trail northeast
+2021-174,47.559595,-122.251842,26,0,0,0,NA,NA,2021-08-17,all,0,False,False,4' from trail; snag east
+2021-175,47.559465,-122.25186,34,0,0,0,NA,NA,2021-08-17,all,0,False,False,49' from trail; wsw CHECK
+2021-175b,47.559477,-122.251871,8,0,0,0,NA,NA,2021-08-17,all,0,False,False,10' nw from 175  CHECK
+2021-176,47.559555,-122.251649,13,0,0,1.5,NA,NA,2021-08-17,all,0,False,False,17' from trail; snag; east
+2021-177,47.559549,-122.251559,4,0,0,3,NA,NA,2021-08-17,all,0,False,False,28' from trail
+2021-178,47.559449,-122.251643,29,1.5,1.5,1.5,NA,NA,2021-08-17,all,0,False,False,3' from trail
+2021-179,47.559427,-122.251622,20,0,0,1.5,NA,NA,2021-08-17,all,0,False,False,1' from trail
+6200,47.5556056, -122.2506800,36,NA,NA,3,NA,0,2024-03-05,paul,0,True,False,
+6201,47.5566361, -122.2512423,28,0,0,0,220,5,2024-03-05,paul,3,False,False,45 foot snag
+6202,47.5566105, -122.2512436,29,NA,1.5,2,220,5,2024-03-05,paul,0,False,False,
+6203,47.5565118, -122.2510408,34,NA,0,0,220,5,2024-03-05,paul,3,True,False,
+# center of 04,5 and the 6-7 pair. 4 is 10 ft nw. 5 is 8 ft ne. 6-7 is 8 ft sw
+# center 47.5564530, -122.2510649
+6204,47.5564700, -122.2510709,10,1,2,3,220,5,2024-03-05,paul,0,False,False,
+6205,47.5564700, -122.2510709,10,0,1,3,220,5,2024-03-05,paul,0,False,False, might be self-pruning; about to emerge into canopy
+6206,47.5564430, -122.2510549,3,0,0,0,220,5,2024-03-05,paul,0,False,False,
+6207,47.5564430, -122.2510549,5,2,2,3,220,5,2024-03-05,paul,0,False,False,
+6028,47.5565682, -122.2509070,23,0,0,0,220,5,2024-03-05,paul,1,False,False,40 ft snag. 8 visible conks
+6029,47.5564903, -122.2507873,11,NA,2,2.5,220,5,2024-03-05,paul,0,False,False,just reaching local canopy. unusual 10-15 degree lean entire tree
+6030,47.5568949, -122.2497533,15,NA,NA,3,70,25,2024-03-05,paul,0,False,False,
+6031,47.5567492, -122.2498227,18,NA,NA,3,70,25,2024-03-05,paul,0,True,False,
+6032,47.5567001, -122.2500340,16,NA,2,3,60,40,2024-03-05,paul,0,True,False,
+6033,47.5567374, -122.2498593,21,NA,NA,3,60,40,2024-03-05,paul,0,True,False,
+6034,47.5567487, -122.2496259,6,2,3,3,60,40,2024-03-05,paul,0,False,False,right next to maple
+6035,47.5565109, -122.2495716,4,3,3,3,60,40,2024-03-05,paul,0,False,False,
+#6036, no lat lon recorded
+6037,47.5569074, -122.2497325,4,0,0,0,60,40,2024-03-05,paul,0,False,False,
+6038,47.5568689, -122.2496115,2,3,3,3,60,40,2024-03-05,paul,0,False,False,supine tree now growing vertical
+6039,47.5571090, -122.2500980,8,NA,3,3,75,10,2024-03-05,paul,0,False,False,needles a bit thin
+6040,47.5572200,-122.2502857,50,0,0,0,80,45,2024-03-05,paul,5,False,False,massive 7 ft stump; log fell north
+# paul's (2024-03-08 trees)
+6200,47.5556056, -122.2506800,36,NA,NA,3,NA,0,2024-03-05,paul,0,True,False,
+6201,47.5566361, -122.2512423,28,0,0,0,220,5,2024-03-05,paul,3,False,False,45 foot snag
+6202,47.5566105, -122.2512436,29,NA,1.5,2,220,5,2024-03-05,paul,0,False,False,
+6203,47.5565118, -122.2510408,34,NA,0.5,1,220,5,2024-03-05,paul,3,True,False,
+6204,47.5564700, -122.2510709,10,1,2,3,220,5,2024-03-05,paul,0,False,False,
+6205,47.5564700, -122.2510709,10,0,1,3,220,5,2024-03-05,paul,0,False,False, might be self-pruning; about to emerge into canopy
+6206,47.5564430, -122.2510549,3,0,0,0,220,5,2024-03-05,paul,0,False,False,
+6207,47.5564430, -122.2510549,5,2,2,3,220,5,2024-03-05,paul,0,False,False,
+6028,47.5565682, -122.2509070,23,0,0,0,220,5,2024-03-05,paul,1,False,False,40 ft snag. 8 visible conks
+6029,47.5564903, -122.2507873,11,NA,2,2.5,220,5,2024-03-05,paul,0,False,False,just reaching local canopy. unusual 10-15 degree lean entire tree
+6030,47.5568949, -122.2497533,15,NA,NA,3,70,25,2024-03-05,paul,0,False,False,
+6031,47.5567492, -122.2498227,18,NA,NA,3,70,25,2024-03-05,paul,0,True,False,
+6032,47.5567001, -122.2500340,16,NA,2,3,60,40,2024-03-05,paul,0,True,False,
+6033,47.5567374, -122.2498593,21,NA,NA,3,60,40,2024-03-05,paul,0,True,False,
+6034,47.5567487, -122.2496259,6,2,3,3,60,40,2024-03-05,paul,0,False,False,right next to maple
+6035,47.5565109, -122.2495716,4,3,3,3,60,40,2024-03-05,paul,0,False,False,
+6037,47.5569074, -122.2497325,4,0,0,0,60,40,2024-03-05,paul,0,False,False,
+6038,47.5568689, -122.2496115,2,3,3,3,60,40,2024-03-05,paul,0,False,False,supine tree now growing vertical
+6039,47.5571090, -122.2500980,8,NA,3,3,75,10,2024-03-05,paul,0,False,False,needles a bit thin
+6040,47.5572200,-122.2502857,50,0,0,0,80,45,2024-03-05,paul,5,False,False,massive 7 ft stump; log fell north
+6050,47.5556502, -122.2520211,47,0,0,0,NA,0,2024-03-09,paul,0,False,False,60 ft snag.Holly 20 ft south
+6051,47.5556160,-122.2520936,10,1,1,2,NA,0,2024-03-09,paul,0,False,False,low branch is candidate for mid-summer study
+6052,47.5572535, -122.2503089,6,NA,3,3,95,30,2024-03-09,paul,0,False,False,
+6053,47.5572535, -122.2503289,6,NA,3,3,95,30,2024-03-09,paul,0,False,False,
+6054,47.5572535, -122.2503489,29,NA,3,3,95,30,2024-03-09,paul,0,True,False,
+6055,47.5573259, -122.2502133,11,NA,3,3,95,30,2024-03-09,paul,0,True,False,low north branches not yet pruning 
+6056,47.5573159, -122.2502033,6,NA,2,3,105,40,2024-03-09,paul,0,False,True,out of Doug for log
+6057,47.5572954, -122.2501597,7,NA,2,3,105,40,2024-03-09,paul,0,False,False,
+6058,47.5572777, -122.2500068,41,NA,NA,3,100,30,2024-03-09,paul,0,True,False,
+# center for 4 trees, 59-62 47.5572377, -122.2497879,
+6059,47.5572377, -122.2498179,10,NA,NA,3,90,5,2024-03-09,paul,0,False,False,
+6060,47.5572077, -122.2497879,7,2,1.5,1.5,90,5,2024-03-09,paul,0,False,True,out of old stump
+6061,47.5572277, -122.2497869,7,1,1,2,90,5,2024-03-09,paul,0,False,False,
+6062,47.5572377, -122.2497679,8,1,1,2,90,5,2024-03-09,paul,0,False,False,
+6063,47.5573001, -122.2498207,4,1,1,3,90,5,2024-03-09,paul,0,False,False,
+6064,47.5573816, -122.2496819,29,NA,NA,3,115,15,2024-03-09,paul,0,True,False,low branches have sun. no disease
+6065,47.5573956, -122.2496819,24,NA,NA,3,115,15,2024-03-09,paul,0,True,False,no disease on few low branches
+6066,47.5574116, -122.2496819,22,0,0,0,115,15,2024-03-09,paul,0,False,False,todo: remeasure dbh
+6067,47.5574216, -122.2496819,4,NA,1,2,115,15,2024-03-09,paul,0,False,False,
+6068,47.5574416, -122.2496519,13,NA,3,3,115,15,2024-03-09,paul,0,True,False,
+6070,47.5573970, -122.2496179,38,NA,NA,3,90,10,2024-03-09,paul,0,True,False,
+
+# muwei's 5 mar trees come next
+4034,47.5552975, -122.2481742,36,0,0,0,60,10,2024-03-05,muwei,2,False,False,8 foot stump
+4035,47.5555507, -122.2494519,14,1,2,2.5,360,15,2024-03-05,muwei,0,False,False,
+99,47.5554126, -122.2495485,26,NA,NA,0,360,25,2024-03-05,muwei,4,False,False,30 foot snag
+380,47.5550348, -122.2513053,33,0.5,2.5,3,240,15,2024-03-09,muwei,0,False,False,breaking into the canopy. natural self pruning
+381,47.5550873, -122.2513315,22,0,0,0,180,5,2024-03-09,muwei,4,False,False,80 foot snag
+382,47.5553178, -122.2511809,7,0,2,3,270,5,2024-03-09,muwei,0,False,True,
+383,47.5553552, -122.2512228,2,2,3,3,NA,0,2024-03-09,muwei,0,False,True,growing solely on a fallen Doug fir
+231,47.5570549, -122.2508735,5,0,0,2.5,180,15,2024-03-09,muwei,0,False,False,
+234,47.5566361, -122.2506646,28,NA,NA,3,NA,0,2024-03-09,muwei,0,True,False,
+384,47.5566675, -122.2507132,5,1.5,2,3,270,5,2024-03-09,muwei,0,False,False,
+385,47.5566702, -122.2510438,20,NA,1,3,270,5,2024-03-09,muwei,0,True,False,
+6201,47.5565976, -122.2512091,24,0,0,0,240,5,2024-03-09,muwei,4,True,False,40 foot snag
+6202,47.5566453, -122.2511290,9,NA,2,3,240,5,2024-03-09,muwei,0,False,False,
+
+# eric's 2024-03-09
+211,47.5555588, -122.2511484,19,2,3,3,230,5,2024-03-09,eric,0,False,False,
+212,47.5554936, -122.2511675,24,1.5,0,0,230,5,2024-03-09,eric,0,False,False,55 foot snag
+213,47.5556373, -122.2511870,5,0,1,2.5,230,5,2024-03-09,eric,0,False,False,
+214,47.5556136, -122.2510428,10,1,0.75,1.5,230,4,2024-03-09,eric,0,False,False,
+215,47.5556846, -122.2508916,14,0,0,0,230,5,2024-03-09,eric,0,False,False,fallen tree
+217,47.5557143, -122.2509955,10,2,3,3,230,5,2024-03-09,eric,0,False,False, lots of branches on the ground.
+218,47.5557351, -122.2512829,11,1,2.5,3,230,5,2024-03-09,eric,0,False,False,
+219,47.5559487, -122.2511722,31,NA,3,3,230,5,2024-03-09,eric,0,False,False,broken off at top
+220,47.5560177, -122.2511561,42,0,0,0,230,5,2024-03-09,eric,0,True,False,45 foot snag
+221,47.5560061, -122.2512815,14,0.5,2.5,3,230,10,2024-03-09,eric,0,False,False,
+222,47.5560761, -122.2511937,8,0,0,0,230,10,2024-03-09,eric,0,False,False,fallen tree
+223,47.5557514, -122.2518364,4,0,0.5,1,280,5,2024-03-09,eric,0,False,False,
+224,47.5557514, -122.2518364,2,1.5,0,2.5,280,5,2024-03-09,eric,0,False,False,
+225,47.5556618, -122.2515756,6,1.5,1.5,3,230,5,2024-03-09,eric,0,False,False,
+226,47.5555719, -122.2515018,7,1.5,2.5,3,230,5,2024-03-09,eric,0,False,True,
+227,47.5555950, -122.2514475,4,1,2.5,3,230,10,2024-03-09,eric,0,False,True,
+228,47.5555950, -122.2514475,7,1,2,2.5,230,10,2024-03-09,eric,0,False,True,
+229,47.5555565, -122.2515595,36,0,0,0,230,5,2024-03-09,eric,0,False,False,8 foot snag
+230,47.5569223, -122.2507585,24,2.5,3,2.5,240,5,2024-03-09,ericf,0,True,False,
+232,47.5569861, -122.2509268,4,0,0.5,0.5,240,5,2024-03-09,eric,0,False,False,
+233,47.5566343, -122.2507524,14,NA,1.5,2,80,10,2024-03-09,eric,0,False,False,
+235,47.5565639, -122.2502603,18,0,0,0,80,5,2024-03-09,eric,0,False,False,fallen tree
+245,47.5562510, -122.2502777,2,0,0,0,80,10,2024-03-09,eric,0,False,False,
+246,47.5563014, -122.2500936,6,0,0,0,80,5,2024-03-09,eric,0,False,False,Fallen tree. upright against a Douglas fir.
+247,47.5570526, -122.2502552,5,0,0.5,2,80,10,2024-03-09,eric,0,False,False,
+248,47.5570216, -122.2502180,7,0.5,0.5,1.5,80,10,2024-03-09,eric,0,False,False,
+249,47.5571225, -122.2501332,8,1.5,1.5,2.25,80,10,2024-03-09,eric,0,False,False,
+250,47.5571187, -122.2500252,15,NA,NA,2.25,80,10,2024-03-09,eric,0,False,False,
+251,47.5571187, -122.2500252,3,0,0,1.5,80,10,2024-03-09,eric,0,False,False,
+252,47.5573296, -122.2499585,8,1,2.75,3,80,10,2024-03-09,eric,0,False,False,
+253,47.5573866, -122.2499464,9,1.5,1.75,3,80,10,2024-03-09,eric,0,False,True,
+254,47.5574060, -122.2499669,11,2,2,3,80,10,2024-03-09,eric,0,False,False,
+255,47.5574271, -122.2498710,12,0,1.5,3,80,10,2024-03-09,eric,0,True,False,
+256,47.5573861, -122.2499823,8,1.5,3,3,80,10,2024-03-09,eric,0,False,False,
+257,47.5573861, -122.2499823,7,NA,1.5,3,80,10,2024-03-09,eric,0,False,False,
+258,47.5573922, -122.2500568,5,1.5,2.25,2.75,80,5,2024-03-09,eric,0,False,False,
+259,47.5574861, -122.2500380,9,2,1.5,3,80,5,2024-03-09,eric,0,True,False,
+260,47.5574861, -122.2500380,8, 0,0,0,80,5,2024-03-09,eric,0,False,False,12 foot snag
+261,47.5573902, -122.2497205,5,0,1,1.5,80,5,2024-03-09,eric,0,False,False,
+262,47.5573741, -122.2497000,16,NA,2.5,3,80,5,2024-03-09,eric,0,False,False,
+263,47.5574667, -122.2497641,6,NA,1.5,3,80,5,2024-03-09,eric,0,False,False,
+264,47.5574850, -122.2496440,6,1.5,2,3,80,5,2024-03-09,eric,0,False,False,
+265,47.5575635, -122.2495756,7,0.5,2,3,80,5,2024-03-09,eric,0,False,False,
+# nate's 2024-03-09 trees
+5044,47.5554930,-122.2506934,5,1.5,3,3,225,5,2024-03-09,nate,0,False,True,growing from base of doug fir
+5045,47.5555305, -122.2508835,14,3,3,3,270,5,2024-03-09,nate,0,False,False,
+5046,47.5561652, -122.2515377,21,NA,2,3,240,10,2024-03-09,nate,0,False,False,
+5047,47.5561505, -122.2518820,4,3,3,3,250,5,2024-03-09,nate,0,False,False,
+5048,47.5559819, -122.2519843,40,NA,2.5,3,200,10,2024-03-09,nate,0,False,False,
+5049,47.5569859, -122.2508410,16,NA,1.5,2.5,245,5,2024-03-09,nate,0,True,False,
+5050,47.5570730, -122.2505473,3,1,2,2,50,15,2024-03-09,nate,0,False,False,
+5051,47.5570379, -122.2507934,5,1,1.5,2.5,75,5,2024-03-09,nate,0,False,False,
+5052,47.5571863, -122.2507645,51,NA,3,3,100,10,2024-03-09,nate,0,True,False,
+5053,47.5574753, -122.2508601,7,NA,3,3,275,5,2024-03-09,nate,0,False,False,
+5054,47.5574970, -122.2508396,7,NA,3,3,300,5,2024-03-09,nate,0,False,False,
+5055,47.5575165, -122.2508346,4,2.5,3,3,290,5,2024-03-09,nate,0,False,False,
+5056,47.5574793, -122.2506522,8,3,3,3,100,10,2024-03-09,nate,0,False,False,
+5057,47.5574603, -122.2506170,11,3,3,3,100,15,2024-03-09,nate,0,False,False,
+5058,47.5575993, -122.2506381,44,NA,3,3,100,5,2024-03-09,nate,0,True,False,
+5059,47.5576871, -122.2507069,45,0,0,0,75,5,2024-03-09,nate,3,True,False,big and dead; check wpDamage number
+5060,47.5577140, -122.2506408,8,3,3,3,100,5,2024-03-09,nate,0,False,False,
+5061,47.5577137, -122.2506147,6,3,3,3,120,5,2024-03-09,nate,0,False,False,
+5062,47.5577242, -122.2505969,3,3,3,3,80,5,2024-03-09,nate,0,False,False,
+5063,47.5578696, -122.2505908,36,0,0,0,345,0,2024-03-09,nate,3,True,False,big dead snag; check wpDamage number
+5064,47.5578712, -122.2505268,32,0,0,0,120,0,2024-03-09,nate,3,True,False,big dead snag
+5065,47.5577031, -122.2503474,10,3,3,3,115,10,2024-03-09,nate,0,False,False,
+5066,47.5576065, -122.2504074,5,3,3,3,125,5,2024-03-09,nate,0,False,False,

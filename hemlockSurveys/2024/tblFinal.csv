@@ -1,0 +1,50 @@
+id,lat,lon,dbh,h1,h2,h3,h,wpDamage,canopy,dfAssoc,aspect,slope,date,comments,observer,loc
+1,47.560123,-122.252269,36,NA,0,0,0,5,False,False,-1,-1,2024-01-18,snag; heavy woodpecker damage; yellow and brown moss up high,muwei,graveyard
+3,47.560222,-122.251542,30,NA,0,1,0.5,2,False,False,-1,-1,2024-01-18,,muwei,graveyard
+4,47.560238,-122.251492,27,1,1,2,1.33,1,False,False,300,10,2024-01-20,,muwei,graveyard
+5,47.560243,-122.251862,25,NA,0,0,0,4,False,False,250,15,2024-01-20,40 foot snag; NW of trail junction; surrounded by salal; evidence of woodpeckers,eric,graveyard
+45,47.55925,-122.252552,21,0,0,0,0,3,True,False,330,5,2024-01-28,20 foot snag,tareq,graveyard
+47,47.5592455,-122.2528781,18,0,0,0,0,1,False,False,330,5,2024-02-20,30 ft snag,muwei,graveyard
+60,47.55969,-122.251916,25,0,0,0,0,5,False,False,270,10,2024-01-30,12 ft snag; apparently long dead,paul,graveyard
+73,47.55953,-122.25157,32,0.5,0,1.5,0.67,1,False,False,350,4,2024-02-03,,eric,graveyard
+75,47.559097,-122.251054,20,0,0,0,0,2,False,False,30,5,2024-02-03,,eric,graveyard
+76,47.5588156,-122.2509811,17,0,0,0.25,0.08,2,False,False,340,15,2024-02-03,,eric,none
+84,47.5588591,-122.2512436,31,0,0,0,0,3,False,False,330,5,2024-02-03,,eric,graveyard
+98,47.55517,-122.249579,30,0,0,0,0,3,True,False,20,7,2024-02-04,7 feet tall,eric,garden
+104,47.554948,-122.249847,20,0,0,0,0,1,True,False,40,5,2024-02-04,55 foot snag,eric,garden
+1101,47.5531334,-122.2511518,23,0,0,0,0,3,True,False,270,5,2024-02-20,,muwei,none
+2014,47.5598111,-122.2516882,30,0,0,0,0,1,False,False,270,10,2024-02-13,wp1;stump no;canopy tree,muwei,graveyard
+2016,47.5599012,-122.2514874,30,0,0,0,0,4,False,False,300,15,2024-02-13,wp4;stump no;canopy tree;40 ft snag,muwei,graveyard
+2033,47.55825,-122.25027,25,0,0,0,0,5,False,False,30,10,2024-02-17,next to 20 ft log which was its top,eric,garden
+3005,47.559457,-122.252069,28,NA,0,0,0,2,True,False,340,10,2024-01-28,,paul,graveyard
+3006,47.559523,-122.251926,28,0,0,0,0,1,True,False,340,10,2024-01-28,fine branchlets on only 1 limb at bottom,paul,graveyard
+3008,47.559232,-122.252064,20,0,0,0,0,5,True,False,340,10,2024-01-28,extensive woodpecker damage lower third,paul,graveyard
+3011,47.558827,-122.251816,38,0,0,0,0,4,False,False,300,5,2024-02-03,,paul,graveyard
+4001,47.5589041,-122.2508976,40,NA,0,0,0,5,False,False,350,0,2024-02-06,totem pole tree; bare fine branchlets top and middle; wp 100,muwei,none
+4027,47.5535076,-122.2498563,32,0,0,0,0,4,False,False,NA,0,2024-02-10,16 ft snag; west facing log suggests 100 years,paul,none
+4065,47.5582473,-122.2501449,26,0,0,0,0,5,False,False,100,5,2024-02-17,wp5,nate,garden
+4067,47.5582498,-122.2504215,30,0,0,0,0,3,False,False,80,5,2024-02-17,2006 annosus,nate,garden
+4068,47.5582485,-122.25043,30,0,0,0,0,5,False,False,60,5,2024-01-17,snag 7 feet;2006 annosus?,eric,garden
+6027,47.5575794,-122.2490161,28,0,0,0,0,3,False,False,40,20,2024-02-27, 7 ft stump,paul,none
+6029,47.5573922,-122.2493336,25,0,0,0,0,5,False,False,40,20,2024-02-27, 28 ft. Snag,paul,garden
+6036,47.557425,-122.2492296,35,NA,2,3,3,2,True,False,100,15,2024-02-27,  ,paul,garden
+145,47.5578893,-122.2502589,29,0,0,0,0,4,True,False,90,5,2024-03-02, snag: 55 ft.,eric,garden
+148,47.5576594,-122.2500611,18,0,0,0,0,2,False,False,90,5,2024-03-02,Fallen tree - looks somewhat recent,eric,garden
+177,47.5571223,-122.2505546,31,0,0,0,0,3,False,False,70,5,2024-03-02, snag 45 ft.,eric,garden
+199,47.5566207,-122.2510602,41,0,0,0,0,3,False,False,220,3,2024-03-03,40 foot snag,eric,garden
+202,47.556598,-122.251255,33,0,0,0,0,1,False,False,220,5,2024-03-03,Cannot see the top; not sure if a snag or just dying. 70-80 ft.,eric,garden
+6201,47.5566361,-122.2512423,28,0,0,0,0,3,False,False,220,5,2024-03-05,45 foot snag,paul,garden
+6203,47.5565118,-122.2510408,34,NA,0,0,0,3,True,False,220,5,2024-03-05,,paul,garden
+6028,47.5565682,-122.250907,23,0,0,0,0,1,False,False,220,5,2024-03-05,40 ft snag. 8 visible conks,paul,garden
+6040,47.55722,-122.2502857,50,0,0,0,0,5,False,False,80,45,2024-03-05,massive 7 ft stump; log fell north,paul,garden
+6201,47.5566361,-122.2512423,28,0,0,0,0,3,False,False,220,5,2024-03-05,45 foot snag,paul,garden
+6203,47.5565118,-122.2510408,34,NA,0.5,1,0.75,3,True,False,220,5,2024-03-05,,paul,garden
+6028,47.5565682,-122.250907,23,0,0,0,0,1,False,False,220,5,2024-03-05,40 ft snag. 8 visible conks,paul,garden
+6040,47.55722,-122.2502857,50,0,0,0,0,5,False,False,80,45,2024-03-05,massive 7 ft stump; log fell north,paul,garden
+4034,47.5552975,-122.2481742,36,0,0,0,0,2,False,False,60,10,2024-03-05,8 foot stump,muwei,none
+99,47.5554126,-122.2495485,26,NA,NA,0,0,4,False,False,360,25,2024-03-05,30 foot snag,muwei,garden
+381,47.5550873,-122.2513315,22,0,0,0,0,4,False,False,180,5,2024-03-09,80 foot snag,muwei,none
+6201,47.5565976,-122.2512091,24,0,0,0,0,4,True,False,240,5,2024-03-09,40 foot snag,muwei,garden
+5059,47.5576871,-122.2507069,45,0,0,0,0,3,True,False,75,5,2024-03-09,big and dead; check wpDamage number,nate,garden
+5063,47.5578696,-122.2505908,36,0,0,0,0,3,True,False,345,0,2024-03-09,big dead snag; check wpDamage number,nate,garden
+5064,47.5578712,-122.2505268,32,0,0,0,0,3,True,False,120,0,2024-03-09,big dead snag,nate,garden

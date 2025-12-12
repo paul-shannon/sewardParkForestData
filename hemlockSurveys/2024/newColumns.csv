@@ -1,0 +1,57 @@
+id,wpDamage,canopy,dfAssoc
+70,0,False,True
+2007,0,False,False
+2006,0,False,False
+4029,0,False,False
+4027,4,False,False
+43,0,False,False
+44,0,False,False
+42,0,False,False
+45,3,True,False
+48,0,True,False
+49,0,True,False
+3008,5,True,False
+3005,2,True,False
+3006,1,True,False
+3009,0,True,False
+62,0,False,False
+63,0,False,False
+64,0,False,False
+66,0,False,True
+67,0,False,True
+68,0,False,True
+55,0,True,False
+56,0,True,False
+57,0,True,False
+
+
+
+# stump yes canopy no
+#2007 woodpecker 0 stump no canopy no
+#2006 woodpecker 0 stump no canopy no
+
+
+#4029 woodpecker 0 Douglas no canopy tree
+#4027 woodpecker 4 Douglas no canopy unknown
+#47 Dbh 18 0 0 0 (47.5592455, -122.2528781) 5 degree 330 NW woodpecker 1 Douglas no canopy unknown 30 feet snag 
+#43 woodpecker 0 Douglas no canopy tree 0 0 0 all dead
+#44 woodpecker 0 Douglas no canopy no 1 2 2
+#42 woodpecker Na Douglas no canopy unknown
+#45 woodpecker 3 Douglas no canopy tree
+#48 woodpecker 0 Douglas no canopy tree
+#49 woodpecker 0 Douglas no canopy tree
+#3008 woodpecker 5 Douglas no canopy tree
+#3005 woodpecker 2 Douglas no canopy tree
+#3006 woodpecker 1 (previous nest) Douglas no canopy tree
+#3009 woodpecker 0 Douglas no canopy yes
+#62 woodpecker 0 Douglas no canopy no
+#63 woodpecker 0 Douglas no canopy no
+#64 woodpecker 0 Douglas no canopy no
+#66 woodpecker 0 Douglas stump canopy no
+#67 woodpecker 0 Douglas stump canopy no
+#68 woodpecker 0 Douglas fallen log canopy no
+#55 woodpecker 0 Douglas no canopy tree
+#56 woodpecker 0 Douglas no canopy tree
+#57 woodpecker 0 Douglas no canopy tree
+
+# A Male pileated feeding on tree #1

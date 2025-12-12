@@ -1,0 +1,351 @@
+d: 6119
+latlong:  (47.5561496, -122.2499159)
+dbh:  113 cbh
+health:  0 0 0
+aspect:  90
+slope:  25
+date: 
+observer: 
+wpDamage:  0
+canopy:  f
+dfAssoc:  f
+C: 16 ft snag
+
+d: 6120
+latlong:  (47.5562175, -122.2497728)
+dbh:  71 cbh
+health:  na 2 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  0
+canopy:  t
+dfAssoc:  f
+
+d: 6121
+latlong:  (47.5562218, -122.2495810)
+dbh:  26 cbh
+health:  3 3 3
+aspect:  90
+slope: 30
+date: 
+observer: 
+wpDamage:  0
+canopy:  f
+dfAssoc:  f
+C: perfect young tree, branches all levels all directions. 35 ft?
+
+d: 6122 
+latlong:  (47.5562906, -122.2497543)
+dbh:  37 cbh
+health:  na na 3
+aspect:  90
+slope:  35
+date: 
+observer: 
+wpDamage:  0
+canopy:  t
+dfAssoc:  f
+
+d: 6123
+latlong:  (47.5563863, -122.2497295) 24 and 25 also
+dbh:  59 cbh
+health:  na na 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  0
+canopy:  t
+dfAssoc:  f
+
+d: 6124
+latlong:  same as 6123, 6 ft south
+dbh:  64 cbh
+health:  na na 4
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  0
+canopy:  t
+dfAssoc:  f
+
+id: 6125
+latlong:  same as 6123 but 6 ft east
+dbh:  31 cbh
+health:  3 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  0
+canopy:  f
+dfAssoc:  f
+comments: not quite to canopy
+
+d: 6126
+latlong:  (47.5562910, -122.2499136)
+dbh:  50 cbh
+health:  3 3 3
+aspect:  110
+slope:  45
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6127
+latlong:  (47.5564745, -122.2500521)
+dbh:  97 cbh
+health:  3 3 4
+aspect:  80
+slope:  40
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C: snticorrelated fern health: everywhere dead
+
+d: 6128
+latlong:  (47.5565854, -122.2499890)
+dbh:  84 cbh
+health:  na 3 4
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6129
+latlong:  (47.5564833, -122.2500638)
+dbh:  80 cbh
+health:  na 3 3
+aspect:  same
+slope:  5
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C; back on the flat
+
+d: 6130
+latlong:  (47.5566204, -122.2502676)
+dbh:  125 cbh
+health:  na na 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C: conks  at base, 8. Feet up on east side. Might be grand fir uu
+
+d: 6131
+latlong:  (47.5564417, -122.2501845)
+dbh:  70 cbh
+health:  0 0 0
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  f
+dfAssoc:  f
+C: 18 ft snag
+
+d: 6132
+latlong:  (47.5563143, -122.2501842)
+dbh:  59 cbh
+health:  na na 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6133
+latlong:  (47.5563247, -122.2500950)
+dbh:  97 cbh
+health:  1 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C big canopy tree yet lower branches with lot of cones losing needles. Atypical pruning?
+
+d: 6135
+latlong:  (47.5564910, -122.2504239)
+dbh:  40”?
+health:  0 0 0
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  f
+dfAssoc:  f
+C: massive fallen tree
+
+d: 6136
+latlong:  (47.5567610, -122.2505429)
+dbh:  27 cfh 
+health:  3 3 3
+aspect:  60
+slope:  15
+date: 
+observer: 
+wpDamage:  f
+observer: 
+(47.5567610, -122.2505429) wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6137
+latlong:  (47.5567544, -122.2503753)
+dbh:  23 cfh
+health:  0 0 1.5
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  f
+dfAssoc:  f
+
+d: 6138
+latlong:  (47.5568227, -122.2504145)
+dbh:  39 cbh
+health:  na na 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C: young but emerging into canopy. Mixed lower branches. No sign of dz
+
+d: 6139
+latlong:  (47.5568666, -122.2505664)
+dbh:  56 cbh
+health:  na 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6140
+latlong:  (47.5568076, -122.2504443)
+dbh:  128 cfh
+health:  na 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+
+d: 6141
+latlong:  (47.5568119, -122.2505228)
+dbh:  16 cfh
+health:  3 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  f
+dfAssoc:  f
+
+d: 6142
+latlong:  (47.5568119, -122.2505228)
+dbh:  22 dbh
+health:  0 0 0
+aspect:  
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C: uprooted last 2-5 years?
+
+d: 6143
+latlong:  (47.5569395, -122.2504390)
+dbh:  97 cbh
+health:  na 3 3
+aspect:  40
+slope:  30
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C:  sword fern monoculture dying here
+
+d: 6144
+latlong:  (47.5569897, -122.2502465)
+dbh:  33 cbh
+health:  3 3 3
+aspect:  same
+slope:  
+date: 
+observer: 
+wpDamage:  f
+canopy:  f
+dfAssoc:  f
+
+d: 6145 
+latlong:  (47.5570277, -122.2500108)
+dbh:  78 cbh
+health:  na na 3
+aspect:  85
+slope:  20
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C: cherry laurel 100 feet north
+
+Id: 6146
+latlong:  (47.5568983, -122.2497815)
+dbh:  62 cbh 
+health:  na na 2.5
+aspect:  same
+slope:  10
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f
+C canopy might be a little thin
+
+d: 6147
+latlong:  (47.5568187, -122.2496735)
+dbh:  87 cbh
+health:  na na 3
+aspect:  same
+slope:  same
+date: 
+observer: 
+wpDamage:  f
+canopy:  t
+dfAssoc:  f

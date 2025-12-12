@@ -1,0 +1,11 @@
+git add hemlocks-merged.csv
+git add hemlocks.json
+git add makefile
+git add map-pluggable.js
+git add prepTreePoints.R
+git add rmarkdown/version-13-mar/hemlockStudy.html
+git add tblFinal.csv
+git add addContoursToTable.R
+git add gardenVsGraveyard-boxplots.R
+git add rmarkdown/woodpeckers/woodpeckers.R
+git add treeAge.R
