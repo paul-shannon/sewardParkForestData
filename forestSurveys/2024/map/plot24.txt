@@ -1,0 +1,38 @@
+plot_id                                         210
+visit_id                                  210_202008
+date                                      2020-08-26
+gsp_zone                                       MF5-N
+tier                                               1
+aspect                                            NW
+canopy                                       75-100%
+habitat                        Conifer Deciduous Mixed
+slope_deg                                        7.4
+soil_moisture                                    dry
+soil_bare                                      0-20%
+soil_compaction                                 none
+soil_compaction_notes                               
+soil_stability                                  none
+soil_om                                        0.5-1
+special_features                Mountain beaver sign
+size_ac                                          0.1
+observers             "Nikki Johnson, Mike Rockwell"
+restoration_stage                            unknown
+ref_object_1                                    ACMA
+ref_bearing_1                                    116
+ref_distance_1                                    34
+ref_dbh_1                                         53
+ref_object_2                                    THPL
+ref_bearing_2                                     55
+ref_distance_2                                     4
+ref_dbh_2                                         33
+latitude                                     47.5593
+longitude                                  -122.2532
+photos                                             4
+hours                                              8
+qaqc_origin                          EarthCorps 2020
+qaqc_score                                    Good +
+visit_rank                                         3
+visit_last                                         1
+visit_first                                        0
+visit_n                                            3
+status                                             1
